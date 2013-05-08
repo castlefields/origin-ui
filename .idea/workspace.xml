@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="70c8cc5e-cef9-4626-8d54-fd26a9e96096" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.html" afterPath="$PROJECT_DIR$/client/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="admin.iws" />
@@ -262,7 +261,7 @@
     <file path="/userProfile.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923604593" ignored="false" />
     <file path="/login.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367924214135" ignored="false" />
     <file path="/login.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923968159" ignored="false" />
-    <file path="/Dummy.txt" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367980535567" ignored="false" />
+    <file path="/Dummy.txt" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367985508718" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,7 +293,7 @@
       <file leaf-file-name="main.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="13" selection-start="692" selection-end="692" vertical-scroll-proportion="0.3">
+            <state line="17" column="22" selection-start="678" selection-end="678" vertical-scroll-proportion="0.11640798">
               <folding />
             </state>
           </provider>
@@ -383,6 +382,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -417,19 +417,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../relief-international/opportunity-tracker" />
+    <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../relief-international/opportunity-tracker" />
     <property name="FullScreen" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -449,6 +448,10 @@
       <option name="testName" />
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
+      <method />
+    </configuration>
     <configuration default="true" type="NodeunitConfigurationType" factoryName="Nodeunit">
       <setting name="nodePath" value="/usr/local/bin/node" />
       <envs />
@@ -457,10 +460,6 @@
       <setting name="workingDirectory" value="$PROJECT_DIR$" />
       <setting name="testType" value="JS_FILE" />
       <setting name="jsFile" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
-      <node-js-remote-debug />
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
@@ -641,44 +640,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/pages.routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="33" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="33" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/error/notFound.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="145" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="145" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="1" column="18" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="32" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="32" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/pages.nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="17" selection-start="541" selection-end="541" vertical-scroll-proportion="-9.375">
-          <folding />
-        </state>
+        <state line="15" column="17" selection-start="541" selection-end="541" vertical-scroll-proportion="-9.375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/tasks/widgets/taskList/taskList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="30" selection-start="16" selection-end="30" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
+        <state line="0" column="30" selection-start="16" selection-end="30" vertical-scroll-proportion="-0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/dashboard/dashboard.html">
@@ -690,16 +677,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/plugins/pluginsMaps.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="10" selection-start="79" selection-end="2312" vertical-scroll-proportion="0.8666667">
-          <folding />
-        </state>
+        <state line="68" column="10" selection-start="79" selection-end="2312" vertical-scroll-proportion="0.8666667" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="71" selection-start="5224" selection-end="5224" vertical-scroll-proportion="0.6166667">
-          <folding />
-        </state>
+        <state line="139" column="71" selection-start="5224" selection-end="5224" vertical-scroll-proportion="0.6166667" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/components/components.routes.js">
@@ -711,7 +694,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="692" selection-end="692" vertical-scroll-proportion="0.3">
+        <state line="17" column="22" selection-start="678" selection-end="678" vertical-scroll-proportion="0.11640798">
           <folding />
         </state>
       </provider>
