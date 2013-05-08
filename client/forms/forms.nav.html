@@ -1,0 +1,25 @@
+<template name="formsNav">
+    <li class="{{isActive}}">
+        <a href="#" data-toggle="dropdown" class='dropdown-toggle'>
+            <span>Forms</span>
+            <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu">
+            <li>
+                <a href="{{formsBasicPath}}">Basic forms</a>
+            </li>
+            <li>
+                <a href="{{formsExtendedPath}}">Extended forms</a>
+            </li>
+            <li>
+                <a href="{{formsLayoutsPath}}">Layouts</a>
+            </li>
+            <li>
+                <a href="{{formsValidationPath}}">Validation</a>
+            </li>
+            <li>
+                <a href="{{formsWizardsPath}}">Wizards</a>
+            </li>
+        </ul>
+    </li>
+</template>

@@ -1,0 +1,70 @@
+<template name="pluginsMaps">
+    {{> pageHeader }}
+    {{> breadcrumbs }}
+    <div class="row-fluid">
+        <div class="span6">
+            <div class="box">
+                <div class="box-title">
+                    <h3>
+                        <i class="icon-map-marker"></i>
+                        Basic map
+                    </h3>
+                </div>
+                <div class="box-content">
+                    <div id="map1"></div>
+                </div>
+            </div>
+        </div>
+        <div class="span6">
+            <div class="box">
+                <div class="box-title">
+                    <h3>
+                        <i class="icon-map-marker"></i>
+                        Markers (with click event)
+                    </h3>
+                </div>
+                <div class="box-content">
+                    <div id="map4"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12">
+            <div class="box">
+                <div class="box-title">
+                    <h3>
+                        <i class="icon-map-marker"></i>
+                        Custom right-click menu
+                    </h3>
+                </div>
+                <div class="box-content">
+                    <div class="alert alert-info">
+                        <h4>Information!</h4>
+                        <p>Right-click on the map to get menu.</p>
+                    </div>
+                    <div id="map2"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12">
+            <div class="box">
+                <div class="box-title">
+                    <h3>
+                        <i class="icon-map-marker"></i>
+                        Cluster map
+                    </h3>
+                </div>
+                <div class="box-content">
+                    <div class="alert alert-info">
+                        <h4>Information!</h4>
+                        <p>This map is useful when you have A LOT of markers. <strong>Tip:</strong> You can click on the clusters to zoom to that cluster.</p>
+                    </div>
+                    <div id="map3"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>

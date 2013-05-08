@@ -1,0 +1,82 @@
+<template name="formsEditableElements">
+    {{> pageHeader }}
+    {{> breadcrumbs }}
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="box">
+                    <div class="box-title">
+                        <h3>
+                            <i class="icon-edit"></i>
+                            Dynamic editing
+                        </h3>
+                    </div>
+                    <div class="box-content">
+                        <div class="alert alert-info">
+                            <h4>Information!</h4>
+                            <p>Simply click on the dash underlined elements to edit them! This can also work with custom input type (see address). Even validation is included (see firstname)</p>
+                        </div>
+                        <table id="editableElements" class="table table-bordered table-striped table-force-topborder" style="clear: both">
+                            <tbody>
+                            <tr>
+                                <td width="15%">Username</td>
+                                <td width="50%"><a href="#" id="username" data-type="text" data-pk="1" data-original-title="Enter username">superuser</a></td>
+                                <td width="35%" class='hidden-480'><span class="muted">Simple text field</span></td>
+                            </tr>
+                            <tr>
+                                <td>First name</td>
+                                <td><a href="#" id="firstname" data-type="text" data-pk="1" data-placement="right" data-placeholder="Required" data-original-title="Enter your firstname"></a></td>
+                                <td class='hidden-480'><span class="muted">Required text field, originally empty</span></td>
+                            </tr>
+                            <tr>
+                                <td>Sex</td>
+                                <td><a href="#" id="sex" data-type="select" data-pk="1" data-value="" data-original-title="Select sex"></a></td>
+                                <td class='hidden-480'><span class="muted">Select, loaded from js array. Custom display</span></td>
+                            </tr>
+                            <tr>
+                                <td>Group</td>
+                                <td><a href="#" id="group" data-type="select" data-pk="1" data-value="5" data-source="/groups" data-original-title="Select group">Admin</a></td>
+                                <td class='hidden-480'><span class="muted">Select, loaded from server. <strong>No buttons</strong> mode</span></td>
+                            </tr>
+                            <tr>
+                                <td>Status</td>
+                                <td><a href="#" id="status" data-type="select" data-pk="1" data-value="0" data-source="/status" data-original-title="Select status">Active</a></td>
+                                <td class='hidden-480'><span class="muted">Error when loading list items</span></td>
+                            </tr>
+                            <tr>
+                                <td>Plan vacation?</td>
+                                <td><a href="#" id="vacation" data-type="date" data-viewformat="dd.mm.yyyy" data-pk="1" data-placement="right" data-original-title="When you want vacation to start?">25.02.2013</a></td>
+                                <td class='hidden-480'><span class="muted">Datepicker</span></td>
+                            </tr>
+                            <tr>
+                                <td>Date of birth</td>
+                                <td><a href="#" id="dob" data-type="combodate" data-value="1984-05-15" data-format="YYYY-MM-DD" data-viewformat="DD/MM/YYYY" data-template="D / MMM / YYYY" data-pk="1"  data-original-title="Select Date of birth"></a></td>
+                                <td class='hidden-480'><span class="muted">Date field (combodate)</span></td>
+                            </tr>
+                            <tr>
+                                <td>Setup event</td>
+                                <td><a href="#" id="event" data-type="combodate" data-template="D MMM YYYY  HH:mm" data-format="YYYY-MM-DD HH:mm" data-viewformat="MMM D, YYYY, HH:mm" data-pk="1"  data-original-title="Setup event date and time"></a></td>
+                                <td class='hidden-480'><span class="muted">Datetime field (combodate)</span></td>
+                            </tr>
+                            <tr>
+                                <td>Comments</td>
+                                <td><a href="#" id="comments" data-type="textarea" data-pk="1" data-placeholder="Your comments here..." data-original-title="Enter comments">awesome<br>user!</a></td>
+                                <td class='hidden-480'><span class="muted">Textarea. Submit by ctrl+enter</span></td>
+                            </tr>
+
+                            <tr>
+                                <td>Fresh fruits</td>
+                                <td><a href="#" id="fruits" data-type="checklist" data-value="2,3" data-original-title="Select fruits"></a></td>
+                                <td class='hidden-480'><span class="muted">Checklist</span></td>
+                            </tr>
+                            <tr>
+                                <td>Address</td>
+                                <td><a href="#" id="address" data-type="address" data-pk="1" data-original-title="Please, fill address"></a></td>
+                                <td class='hidden-480'><span class="muted">Your custom input, several fields</span></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+</template>

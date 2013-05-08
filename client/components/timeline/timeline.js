@@ -1,0 +1,2 @@
+Template.componentsTimeline.rendered = function () {
+};

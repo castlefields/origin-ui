@@ -1,0 +1,32 @@
+<template name="cpuUsageWidget">
+    <div class="box box-color satgreen box-bordered">
+        <div class="box-title">
+            <h3>
+                <i class="icon-bar-chart"></i>
+                CPU usage
+            </h3>
+        </div>
+        <div class="box-content">
+            <div class="statistic-big">
+                <div class="top">
+                    <div class="left">
+                        <div class="input-medium">
+                            <select name="category" class='chosen-select' data-nosearch="true">
+                                <option value="1">Today</option>
+                                <option value="2">Yesterday</option>
+                                <option value="3">Last week</option>
+                                <option value="4">Last month</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="right">
+                        80% <span><i class="icon-circle-arrow-down"></i></span>
+                    </div>
+                </div>
+                <div class="bottom">
+                    <div class="flot small" id="flot-cpu"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>

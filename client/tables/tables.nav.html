@@ -1,0 +1,19 @@
+<template name="tablesNav">
+    <li class="{{isActive}}">
+        <a href="#" data-toggle="dropdown" class='dropdown-toggle'>
+            <span>Tables</span>
+            <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu">
+            <li>
+                <a href="{{tablesBasicPath}}">Basic Tables</a>
+            </li>
+            <li>
+                <a href="{{tablesDynamicPath}}">Dynamic Tables</a>
+            </li>
+            <li>
+                <a href="{{tablesLargePath}}">Large Tables</a>
+            </li>
+        </ul>
+    </li>
+</template>

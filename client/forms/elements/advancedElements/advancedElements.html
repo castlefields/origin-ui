@@ -1,0 +1,177 @@
+<template name="prependedInput">
+    <div class="input-prepend">
+        <span class="add-on">@</span>
+        <input type="text" placeholder="Email">
+    </div>
+</template>
+        
+<template name="appendedInput">
+    <div class="input-append">
+        <input type="text" placeholder="Secret key" class='input-medium'>
+        <span class="add-on"><i class="icon-key"></i></span>
+    </div>
+</template>
+
+<template name="appendedPrependedInput">
+    <div class="input-append input-prepend">
+        <span class="add-on">$</span>
+        <input type="text" placeholder="XX" class='input-small'>
+        <span class="add-on">.00</span>
+    </div>
+</template>
+
+<template name="buttonInput">
+    <div class="input-append">
+        <input type="text" placeholder="..." class='input-large'>
+        <button class="btn" type="button">Go!</button>
+    </div>
+</template>
+
+<template name="dropdownInput">
+    <div class="input-append">
+        <input class="input-medium" id="appendedDropdownButton" type="text">
+
+        <div class="btn-group">
+            <button class="btn dropdown-toggle" data-toggle="dropdown">
+                Action
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="#">Some action</a>
+                </li>
+                <li>
+                    <a href="#">Another action</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</template>
+
+<template name="buttonDropdownInput">
+    <div class="input-append input-prepend">
+        <button class="btn">Check</button>
+        <input class="input-medium" id="appendedDropdownButton" type="text">
+
+        <div class="btn-group">
+            <button class="btn dropdown-toggle" data-toggle="dropdown">
+                Action
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="#">Some action</a>
+                </li>
+                <li>
+                    <a href="#">Another action</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</template>
+
+<template name="segmentedDropdown">
+    <div class="input-append">
+        <input class="input-medium" id="appendedDropdownButton" type="text">
+
+        <div class="btn-group">
+            <button class="btn">First</button>
+            <button class="btn dropdown-toggle" data-toggle="dropdown">
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="#">Some action</a>
+                </li>
+                <li>
+                    <a href="#">Another action</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</template>
+
+<template name="advancedElements">
+    <div class="box box-bordered">
+        <div class="box-title">
+            <h3><i class="icon-edit"></i> Advanced elements</h3>
+        </div>
+        <div class="box-content nopadding">
+            <form action="#" method="POST" class='form-horizontal form-bordered'>
+
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Prepended Input</label>
+                    <div class="controls">
+                        {{> prependedInput }}
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Appended Input</label>
+                    <div class="controls">
+                        {{> appendedInput }}
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Prepended and appended input</label>
+                    <div class="controls">
+                        {{> appendedPrependedInput }}
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Input with button</label>
+                    <div class="controls">
+                        {{> buttonInput }}
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label for="textfield" class="control-label"></label>
+                    <div class="controls">
+                        <div class="input-append input-prepend">
+                            <span class="add-on"><i class="icon-search"></i></span>
+                            <input type="text" placeholder="Search here..." class='input-medium'>
+                            <button class="btn" type="button">Search!</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label for="textfield" class="control-label"></label>
+                    <div class="controls">
+                        <div class="input-append input-prepend">
+                            <span class="add-on"><i class="icon-edit"></i></span>
+                            <input type="text" placeholder="New things.." class='input-medium'>
+                            <button class="btn" type="button">Save!</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Input with dropdown</label>
+                    <div class="controls">
+                        {{> dropdownInput }}
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label for="textfield" class="control-label"></label>
+
+                    <div class="controls">
+                        {{> buttonDropdownInput }}
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Segmented dropdown</label>
+
+                    <div class="controls">
+                        {{> segmentedDropdown }}
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</template>
+
+

@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70c8cc5e-cef9-4626-8d54-fd26a9e96096" name="Default" comment="" />
+    <ignored path="admin.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/admin.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367408467906" ignored="false" />
+    <file path="/chosen.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367409714585" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/vmap/jquery.vmap.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899751830" ignored="false" />
+    <file path="/theme.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367463828052" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/theme.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367464240572" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/startup/startup_client.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367409896987" ignored="false" />
+    <file path="/eakroko.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367456440930" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/eakroko.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367456460261" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/css/style.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367924142369" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367924142369" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap-responsive.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367924142369" ignored="false" />
+    <file path="/users.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367480025088" ignored="false" />
+    <file path="/tasks.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367486194873" ignored="false" />
+    <file path="/admin.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367403868859" ignored="false" />
+    <file path="/nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922918229" ignored="false" />
+    <file path="/sidebar.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367908718370" ignored="false" />
+    <file path="/tiles.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367908058096" ignored="false" />
+    <file path="/widgets.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367470059540" ignored="false" />
+    <file path="/dashboard.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367959425805" ignored="false" />
+    <file path="/navigation.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367469402482" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367409896987" ignored="false" />
+    <file path="/aero.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367410111539" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/meteor/server_environment.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367489385012" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/meteor/client_environment.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367413666148" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/select2/select2.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367495004622" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/livedata/sockjs-0.3.4.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367495004622" ignored="false" />
+    <file path="/theme-demo.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367461270025" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/theme-demo.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367461326566" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/http/httpcall_client.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367494761013" ignored="false" />
+    <file path="/basic.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367466030380" ignored="false" />
+    <file path="/routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367465171610" ignored="false" />
+    <file path="/main.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367494943327" ignored="false" />
+    <file path="/main.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922892236" ignored="false" />
+    <file path="/a.dummy" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922056866" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/widgets/template.widgets.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367488826057" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/template.navigation.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367468669982" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/users/template.users.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367480379195" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/templating/deftemplate.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923377284" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/pages/dashboard.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367468072572" ignored="false" />
+    <file path="/dashboard.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367882554997" ignored="false" />
+    <file path="/forms.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367471353775" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/accounts-google/google_login_button.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/accounts-ui/login_buttons.less.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="/formsNav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367469601050" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/css/theme.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922303069" ignored="false" />
+    <file path="/formsBasic.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367879588707" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/js/bootstrap.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367471459316" ignored="false" />
+    <file path="/forms.nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367919592094" ignored="false" />
+    <file path="/formsExtended.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367886345491" ignored="false" />
+    <file path="/notFound.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367488193795" ignored="false" />
+    <file path="/error.routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367482033959" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/router/lib/router_server.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367478809263" ignored="false" />
+    <file path="/error.nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367479409954" ignored="false" />
+    <file path="/pages.nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923742907" ignored="false" />
+    <file path="/pages.routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923764099" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/template.nav.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367480208944" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/blue.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/yellow.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/purple.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/_all.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/aero.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/flat.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/pink.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/grey.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/red.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/green.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/orange.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/blue.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/yellow.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/purple.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/_all.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/aero.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/red.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/line.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/grey.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/pink.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/green.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/orange.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/blue.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/yellow.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/purple.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/_all.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/aero.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/square.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/red.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/pink.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/grey.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/green.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/orange.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/blue.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/yellow.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/purple.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/select2/select2.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367480379195" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/_all.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/aero.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/red.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/orange.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/grey.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/pink.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/green.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/minimal.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/polaris/polaris.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/futurico/futurico.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/pageguide/pageguide.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap-override.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/chosen/chosen.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/fullcalendar/css/fullcalendar.print.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/all.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367887567107" ignored="false" />
+    <file path="/dashboard.nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367482596654" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/nicescroll/jquery.nicescroll.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367483424399" ignored="false" />
+    <file path="/notFound.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367484183577" ignored="false" />
+    <file path="/audienceOverview.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367484451766" ignored="false" />
+    <file path="/audienceOverview.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367484609847" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/flot/jquery.flot.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367902771453" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/flot/jquery.flot.pie.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904143255" ignored="false" />
+    <file path="/taskList.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367486611700" ignored="false" />
+    <file path="/newTask.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367489949681" ignored="false" />
+    <file path="/newTask.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367489428176" ignored="false" />
+    <file path="/userRegion.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367489669187" ignored="false" />
+    <file path="/calendar.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367490362690" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/widgets/hddUsage/hddUsage.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899751830" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/widgets/feeds/feeds.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922303069" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/widgets/feeds/template.feeds.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367491813892" ignored="false" />
+    <file path="/feeds.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367491740572" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/widgets/audienceOverview/audienceOverview.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899751830" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/users/widgets/addressBook/addressBook.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922303069" ignored="false" />
+    <file path="/chat.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367492604508" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/tasks/widgets/taskList/taskList.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888861268" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/messages/widgets/chat/chat.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899631252" ignored="false" />
+    <file path="/jquery.tagsInput.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367498016430" ignored="false" />
+    <file path="/bootstrap-timepicker.min.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367498450543" ignored="false" />
+    <file path="/colorpicker.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367498494052" ignored="false" />
+    <file path="/wysiwyg.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367897290321" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery-ui-bootstrap/css/jquery-ui-1.9.2.custom.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367924142369" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/minimongo/minimongo.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367909552469" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/accounts-ui-unstyled/login_buttons_dropdown.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904769365" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/handlebars/evaluate.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367558944056" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/users/widgets/userRegion/userRegion.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899751830" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/select2/select2/select2.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888861267" ignored="false" />
+    <file path="/advancedElements.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367876762367" ignored="false" />
+    <file path="/elements.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367885411996" ignored="false" />
+    <file path="/forms.routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367919607661" ignored="false" />
+    <file path="/formsLayouts.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367878905970" ignored="false" />
+    <file path="/pluginElements.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367887756828" ignored="false" />
+    <file path="/select2.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888608019" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/template.formsExtended.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888093176" ignored="false" />
+    <file path="/select2.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888840035" ignored="false" />
+    <file path="/pluginElements.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367889581414" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922303069" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/widgets/wysiwyg/bootstrap-wysiwyg.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367887549525" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/plupload/jquery.plupload.queue.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/tagsInput/jquery.tagsInput.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/fullcalendar/css/fullcalendar.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/multiselect/multiselect.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery-ui-bootstrap/css/jquery.ui.1.9.2.ie.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/colorpicker/colorpicker.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/datepicker/bootstrap-datepicker.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap-timepicker/lib/bootstrap-timepicker/css/bootstrap-timepicker.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/select2/select2/select2.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery-ui/lib/jquery-ui-1.9.2.custom.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923377284" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/fullcalendar/lib/fullcalendar.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367918925929" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/elements/select2/select2.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888924075" ignored="false" />
+    <file path="/elements.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888149166" ignored="false" />
+    <file path="/maskedInputs.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367889147069" ignored="false" />
+    <file path="/maskedInputs.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367889283109" ignored="false" />
+    <file path="/pickers.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367893363794" ignored="false" />
+    <file path="/pickers.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367893514071" ignored="false" />
+    <file path="/formsValidation.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367898898861" ignored="false" />
+    <file path="/validation.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899125267" ignored="false" />
+    <file path="/multiFileUpload.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899509522" ignored="false" />
+    <file path="/formsWizard.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367900740035" ignored="false" />
+    <file path="/componentsTimeline.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367906034988" ignored="false" />
+    <file path="/timeline.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367902724616" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/dark.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/Arvo-PTSans.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/timeline.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/NewsCycle-Merriweather.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="/components.routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367914046443" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/timeline.source.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367903669135" ignored="false" />
+    <file path="/components.nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367914090596" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/dependencies.json" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/plupload/plupload.full.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904095822" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/README" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static/font/fontawesome-webfont.svg" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app.json" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/jquery.form.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904143255" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/server/server.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904769365" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/PlayfairDisplay-Muli.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/Georgia-Helvetica.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/BreeSerif-OpenSans.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/SansitaOne-Kameron.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/Lekton-Molengo.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/Lora-Istok.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/Merriweather-NewsCycle.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/Bevan-PotanoSans.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/DroidSerif-DroidSans.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/PT.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/Rancho-Gudea.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/AbrilFatface-Average.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/PoiretOne-Molengo.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/PTSerif-PTSans.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/NixieOne-Ledger.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/Pacifico-Arimo.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/elements/wysiwyg/wysiwyg.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/flot/jquery.flot.resize.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904769365" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/livedata/stream_client_nodejs.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367909552469" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/wizard/jquery.form.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367905353075" ignored="false" />
+    <file path="/style.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367906680970" ignored="false" />
+    <file path="/componentsStatistics.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367908045242" ignored="false" />
+    <file path="/cpuUsage.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367907331447" ignored="false" />
+    <file path="/cpuUsage.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367907375346" ignored="false" />
+    <file path="/miniCharts.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367907862282" ignored="false" />
+    <file path="/sidebar.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367920653067" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/main.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923377284" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/validation/jquery.validate.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922303069" ignored="false" />
+    <file path="/componentsMessages.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367910370656" ignored="false" />
+    <file path="/chat.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367909840564" ignored="false" />
+    <file path="/componentsGallery.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367911183258" ignored="false" />
+    <file path="/gallery.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367911630893" ignored="false" />
+    <file path="/componentsTiles.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367912180022" ignored="false" />
+    <file path="/componentsButtons.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367912439564" ignored="false" />
+    <file path="/componentsUIElements.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367912810903" ignored="false" />
+    <file path="/UIElements.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367913193325" ignored="false" />
+    <file path="/componentsTypography.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367913562120" ignored="false" />
+    <file path="/componentsBootstrap.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367913832632" ignored="false" />
+    <file path="/tables.routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367917485187" ignored="false" />
+    <file path="/tables.nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367917526257" ignored="false" />
+    <file path="/tablesBasic.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367914338055" ignored="false" />
+    <file path="/tablesDynamic.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367915531480" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap-wysiwyg/lib/bootstrap-wysiwyg.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367914882859" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/tables/datatable/jquery.dataTables.columnFilter.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367915768434" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/past/past.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367916676759" ignored="false" />
+    <file path="/dynamicTables.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367917578189" ignored="false" />
+    <file path="/tablesLarge.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367917818955" ignored="false" />
+    <file path="/plugins.nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367921873913" ignored="false" />
+    <file path="/plugins.routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367921493343" ignored="false" />
+    <file path="/pluginsCharts.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367918447466" ignored="false" />
+    <file path="/pluginsCharts.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367918555894" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/template.plugins.nav.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367918925929" ignored="false" />
+    <file path="/pluginsCalendar.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367918909518" ignored="false" />
+    <file path="/pluginsCalendar.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367919027510" ignored="false" />
+    <file path="/editableElements.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367920574331" ignored="false" />
+    <file path="/editableElements.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367920538099" ignored="false" />
+    <file path="/pluginsMaps.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922075096" ignored="false" />
+    <file path="/pluginsMaps.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922993673" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/messages/widgets/chat/chat.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922303069" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/gmap/gmap3.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922370105" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/pluginsMaps.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922977955" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/gmap/gmap3-menu.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
+    <file path="/opportunityView.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923404249" ignored="false" />
+    <file path="/userProfile.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923604593" ignored="false" />
+    <file path="/login.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367924214135" ignored="false" />
+    <file path="/login.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923968159" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="admin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pages.routes.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/pages/pages.routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="33" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notFound.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/error/notFound.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="145" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/pages/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="18" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/pages/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="32" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages.nav.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/pages/pages.nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="17" selection-start="541" selection-end="541" vertical-scroll-proportion="-9.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taskList.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/tasks/widgets/taskList/taskList.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="30" selection-start="16" selection-end="30" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/dashboard/dashboard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="4" selection-start="183" selection-end="183" vertical-scroll-proportion="0.11640798">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pluginsMaps.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/plugins/pluginsMaps.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="68" column="10" selection-start="79" selection-end="2312" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="17" selection-start="1185" selection-end="1185" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="139" column="71" selection-start="5224" selection-end="5224" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/client/plugins/gmap/gmap3-menu.css" />
+        <option value="$PROJECT_DIR$/client/plugins/plugins.routes.js" />
+        <option value="$PROJECT_DIR$/client/plugins/plugins.nav.html" />
+        <option value="$PROJECT_DIR$/client/plugins/pluginsMaps.html" />
+        <option value="$PROJECT_DIR$/client/plugins/gmap/api.js" />
+        <option value="$PROJECT_DIR$/client/main.js" />
+        <option value="$PROJECT_DIR$/client/main.html" />
+        <option value="$PROJECT_DIR$/client/nav.html" />
+        <option value="$PROJECT_DIR$/client/plugins/pluginsMaps.js" />
+        <option value="$PROJECT_DIR$/client/pages/opportunityView.html" />
+        <option value="$PROJECT_DIR$/client/pages/userProfile.html" />
+        <option value="$PROJECT_DIR$/client/pages/pages.routes.js" />
+        <option value="$PROJECT_DIR$/client/pages/login.js" />
+        <option value="$PROJECT_DIR$/client/pages/login.html" />
+        <option value="$PROJECT_DIR$/client/pages/pages.nav.html" />
+        <option value="$PROJECT_DIR$/client/dashboard/dashboard.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="editing.templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../relief-international/opportunity-tracker" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/forms/elements/editableElements/xeditable/source" />
+      <recent name="$PROJECT_DIR$/client/plugins/charts" />
+      <recent name="$PROJECT_DIR$/client/plugins" />
+      <recent name="$PROJECT_DIR$/public/json/datatables" />
+      <recent name="$PROJECT_DIR$/public/swf/datatables" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js Remote Debug.Admin">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeunitConfigurationType" factoryName="Nodeunit">
+      <setting name="nodePath" value="/usr/local/bin/node" />
+      <envs />
+      <setting name="passParentEnvVars" value="true" />
+      <setting name="nodeunitModuleDir" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="testType" value="JS_FILE" />
+      <setting name="jsFile" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="Admin" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug" singleton="true">
+      <node-js-remote-debug host="http://localhost" local-path="$PROJECT_DIR$/.meteor/local/build/app" remote-path="app" />
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js Remote Debug.Admin" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70c8cc5e-cef9-4626-8d54-fd26a9e96096" name="Default" comment="" />
+      <created>1367394415856</created>
+      <updated>1367394415856</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32983193" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984913" sideWeight="0.6719078" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39937106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32809225" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/plugins/plugins.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="27" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/plugins/gmap/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="5" selection-start="2668" selection-end="2668" vertical-scroll-proportion="0.55" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="17" selection-start="1185" selection-end="1185" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="71" selection-start="5224" selection-end="5224" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/plugins/pluginsMaps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="1" selection-start="2446" selection-end="2446" vertical-scroll-proportion="0.95" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="931" column="0" selection-start="30883" selection-end="30883" vertical-scroll-proportion="2.4086957" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/plugins/pluginsMaps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="10" selection-start="79" selection-end="2312" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/opportunityView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="22" selection-start="78" selection-end="78" vertical-scroll-proportion="0.050933786" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/userProfile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="102" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.81669694" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/pages.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="33" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/error/notFound.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="145" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="32" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/pages.nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="17" selection-start="541" selection-end="541" vertical-scroll-proportion="-9.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/tasks/widgets/taskList/taskList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="30" selection-start="16" selection-end="30" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/dashboard/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="4" selection-start="183" selection-end="183" vertical-scroll-proportion="0.11640798">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

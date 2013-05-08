@@ -1,0 +1,41 @@
+<template name="dashboard">
+    {{> pageHeader }}
+    {{> breadcrumbs }}
+    <div class="row-fluid">
+        <div class="span12">
+            {{> taskListWidget }}
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span6">
+            {{> audienceOverviewWidget }}
+        </div>
+        <div class="span6">
+            {{> hddUsageWidget }}
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span6">
+            {{> serverLoadWidget }}
+        </div>
+        <div class="span6">
+            {{> chatWidget }}
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span6">
+            {{> userRegionsWidget }}
+        </div>
+        <div class="span6">
+            {{> addressBookWidget }}
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span6">
+            {{> calendarWidget }}
+        </div>
+        <div class="span6">
+            {{> feedsWidget }}
+        </div>
+    </div>
+</template>

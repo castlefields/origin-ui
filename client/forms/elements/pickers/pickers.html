@@ -1,0 +1,65 @@
+<template name="datepickerInput">
+    <input type="text" name="textfield" id="textfield" class="input-medium datepick">
+</template>
+
+<template name="timepickerInput">
+    <input type="text" name="timepicker" id="timepicker" class="input-small timepick">
+</template>
+
+<template name="colorpickerInput">
+    <input type="text" name="textfield" id="textfield" class="input-mini colorpick">
+</template>
+
+<template name="appendedColorpickerInput">
+    <div class="input-append color colorpick" data-color="rgb(255, 146, 180)" data-color-format="rgb">
+        <input type="text" class="span12" value="" disabled>
+        <span class="add-on"><i style="background-color: rgb(255, 146, 180)"></i></span>
+    </div>
+</template>
+
+
+<template name="dateColorTimePicker">
+    <div class="box">
+        <div class="box-title">
+            <h3><i class="icon-list-ul"></i> Date, color and Timepicker</h3>
+        </div>
+        <div class="box-content">
+            <form action="#" method="POST" class='form-horizontal'>
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Datepicker</label>
+
+                    <div class="controls">
+                        {{> datepickerInput }}
+                        <span class="help-block">As dropdown</span>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="timepicker" class="control-label">Timepicker</label>
+
+                    <div class="controls">
+                        <div class="bootstrap-timepicker">
+                            {{> timepickerInput }}
+                            <span class="help-block">As dropdown</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Colorpicker</label>
+
+                    <div class="controls">
+                        {{> colorpickerInput }}
+                        <span class="help-block">Useful for backend-theme settings</span>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="textfield" class="control-label"></label>
+
+                    <div class="controls">
+                        {{> appendedColorpickerInput }}
+                        <span class="help-block">Colorpicker as component</span>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</template>

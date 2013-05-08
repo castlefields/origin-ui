@@ -1,0 +1,283 @@
+<template name="sidebarSearch">
+    <form action="search-results.html" method="GET" class='search-form'>
+        <div class="search-pane">
+            <input type="text" name="search" placeholder="Search here...">
+            <button type="submit"><i class="icon-search"></i></button>
+        </div>
+    </form>
+</template>
+
+<template name="sidebarSubnav">
+    <div class="subnav">
+        <div class="subnav-title">
+            <a href="#" class='toggle-subnav'><i class="icon-angle-down"></i><span>Content</span></a>
+        </div>
+        <ul class="subnav-menu">
+            <li class='dropdown'>
+                <a href="#" data-toggle="dropdown">Articles</a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a href="#">Action #1</a>
+                    </li>
+                    <li>
+                        <a href="#">Antoher Link</a>
+                    </li>
+                    <li class='dropdown-submenu'>
+                        <a href="#" data-toggle="dropdown" class='dropdown-toggle'>Go to level 3</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="#">This is level 3</a>
+                            </li>
+                            <li>
+                                <a href="#">Unlimited levels</a>
+                            </li>
+                            <li>
+                                <a href="#">Easy to use</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">News</a>
+            </li>
+            <li>
+                <a href="#">Pages</a>
+            </li>
+            <li>
+                <a href="#">Comments</a>
+            </li>
+        </ul>
+    </div>
+</template>
+
+<template name="sidebarSubnavHidden">
+    <div class="subnav subnav-hidden">
+        <div class="subnav-title">
+            <a href="#" class='toggle-subnav'><i class="icon-angle-right"></i><span>Default hidden</span></a>
+        </div>
+        <ul class="subnav-menu">
+            <li>
+                <a href="#">Menu</a>
+            </li>
+            <li class='dropdown'>
+                <a href="#" data-toggle="dropdown">With submenu</a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a href="#">Action #1</a>
+                    </li>
+                    <li>
+                        <a href="#">Antoher Link</a>
+                    </li>
+                    <li class='dropdown-submenu'>
+                        <a href="#" data-toggle="dropdown" class='dropdown-toggle'>More stuff</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="#">This is level 3</a>
+                            </li>
+                            <li>
+                                <a href="#">Easy to use</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">Security settings</a>
+            </li>
+        </ul>
+    </div>
+</template>
+
+<template name="sidebarCharts">
+    <div class="subnav">
+        <div class="subnav-title">
+            <a href="#" class='toggle-subnav'><i class="icon-angle-down"></i><span>Balance</span></a>
+        </div>
+        <div class="subnav-content">
+            <div class="pagestats">
+                <span class="left">$584</span><span class="spark" id="balance" sparkType="bar" sparkBarColor="#ff7f66"></span>
+            </div>
+        </div>
+    </div>
+    <div class="subnav">
+        <div class="subnav-title">
+            <a href="#" class='toggle-subnav'><i class="icon-angle-down"></i><span>Online user</span></a>
+        </div>
+        <div class="subnav-content">
+            <div class="pagestats">
+                <span class="left">345</span><span class="spark" id="online-users" sparkLineColor="#3a852e" sparkFillColor="#a0d897"></span>
+            </div>
+        </div>
+    </div>
+</template>
+
+<template name="sidebarProgressBars">
+    <div class="subnav">
+        <div class="subnav-title">
+            <a href="#" class='toggle-subnav'><i class="icon-angle-down"></i><span>Progressbars</span></a>
+        </div>
+        <div class="subnav-content">
+            <div class="pagestats bar">
+                <span>Diskspace usage:</span>
+                <div class="progress small">
+                    <div class="bar" style="width:40%"></div>
+                </div>
+            </div>
+            <div class="pagestats bar">
+                <span>Traffic bandwidth:</span>
+                <div class="progress small">
+                    <div class="bar bar-lightred" style="width:80%"></div>
+                </div>
+            </div>
+            <div class="pagestats bar">
+                <span>Resources used:</span>
+                <div class="progress small">
+                    <div class="bar bar-green" style="width:20%"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+        
+<template name="sidebarStats">
+    <div class="subnav">
+        <div class="subnav-title">
+            <a href="#" class='toggle-subnav'><i class="icon-angle-down"></i><span>Quick stats</span></a>
+        </div>
+        <div class="subnav-content">
+            <ul class="quickstats">
+                <li>
+                    <span class="value">412</span>
+                    <span class="name">User</span>
+                </li>
+                <li>
+                    <span class="value">52</span>
+                    <span class="name">Products</span>
+                </li>
+                <li>
+                    <span class="value">951</span>
+                    <span class="name">Purchases</span>
+                </li>
+                <li>
+                    <span class="value">62</span>
+                    <span class="name">Clicks</span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</template>
+        
+<template name="sidebarCalendar">
+    <div class="subnav">
+        <div class="subnav-title">
+            <a href="#" class='toggle-subnav'><i class="icon-angle-down"></i><span>Calendar</span></a>
+        </div>
+        <div class="subnav-content less">
+            <div class="jq-datepicker"></div>
+        </div>
+    </div>
+</template>
+
+<template name="sidebarFileUpload">
+    <div class="subnav">
+        <div class="subnav-title">
+            <a href="#" class='toggle-subnav'><i class="icon-angle-down"></i><span>File upload</span></a>
+        </div>
+        <div class="subnav-content less">
+            <div class="plupload pl-sidebar"></div>
+        </div>
+    </div>
+</template>
+
+<template name="sidebarUserList">
+    <div class="subnav">
+        <div class="subnav-title">
+            <a href="#" class='toggle-subnav'><i class="icon-angle-down"></i><span>Userlist</span></a>
+        </div>
+        <div class="subnav-content">
+            <ul class="userlist">
+                <li>
+                    <a href="#"><img src="/img/demo/user-1.jpg" alt=""></a>
+                    <div class="user">
+								<span class="name">
+									Jane Doe
+								</span>
+								<span class="position">
+									Team manager
+								</span>
+                    </div>
+                    <div class="status active">
+                        <i class="icon-circle"></i>
+                    </div>
+                </li>
+                <li>
+                    <a href="#"><img src="/img/demo/user-2.jpg" alt=""></a>
+                    <div class="user">
+								<span class="name">
+									John Doe
+								</span>
+								<span class="position">
+									Webdesign
+								</span>
+                    </div>
+                    <div class="status">
+                        <i class="icon-circle"></i>
+                    </div>
+                </li>
+                <li>
+                    <a href="#"><img src="/img/demo/user-3.jpg" alt=""></a>
+                    <div class="user">
+								<span class="name">
+									John Doe
+								</span>
+								<span class="position">
+									UI Design
+								</span>
+                    </div>
+                    <div class="status afk">
+                        <i class="icon-circle"></i>
+                    </div>
+                </li>
+                <li>
+                    <a href="#"><img src="/img/demo/user-4.jpg" alt=""></a>
+                    <div class="user">
+								<span class="name">
+									Jane Doe
+								</span>
+								<span class="position">
+									Mobile Design
+								</span>
+                    </div>
+                    <div class="status active">
+                        <i class="icon-circle"></i>
+                    </div>
+                </li>
+                <li>
+                    <a href="#"><img src="/img/demo/user-5.jpg" alt=""></a>
+                    <div class="user">
+								<span class="name">
+									John Doe
+								</span>
+								<span class="position">
+									Webdesign
+								</span>
+                    </div>
+                    <div class="status">
+                        <i class="icon-circle"></i>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</template>
+
+<template name="sidebar">
+    <div id="left" class='force-full no-resize'>
+        {{> sidebarSearch }}
+        {{> sidebarProgressBars }}
+        {{> sidebarStats }}
+        {{> sidebarUserList }}
+    </div>
+
+</template>

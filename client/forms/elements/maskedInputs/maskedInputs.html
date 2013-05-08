@@ -1,0 +1,61 @@
+<template name="maskDateInput">
+    <input type="text" name="textfield" id="textfield" class="input-xlarge mask_date">
+</template>
+
+<template name="maskPhoneInput">
+    <input type="text" name="textfield" id="textfield" class="input-xlarge mask_phone">
+</template>
+
+<template name="maskSerialNumInput">
+    <input type="text" name="textfield" id="textfield" class="input-xlarge mask_serialNumber">
+</template>
+
+<template name="maskProductNumInput">
+    <input type="text" name="textfield" id="textfield" class="input-xlarge mask_productNumber">
+</template>
+
+
+
+<template name="maskedInputs">
+    <div class="box">
+        <div class="box-title">
+            <h3><i class="icon-list"></i> Masked inputs</h3>
+        </div>
+        <div class="box-content">
+            <form action="#" method="POST" class='form-horizontal'>
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Date</label>
+
+                    <div class="controls">
+                        {{> maskDateInput }}
+                        <span class="help-block">Format: 9999/99/99</span>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Phone number</label>
+
+                    <div class="controls">
+                        {{> maskPhoneInput }}
+                        <span class="help-block">Format: (999) 999-9999</span>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Serial number</label>
+
+                    <div class="controls">
+                        {{> maskSerialNumInput }}
+                        <span class="help-block">Format: 9999-9999-99</span>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="textfield" class="control-label">Product number</label>
+
+                    <div class="controls">
+                        {{> maskProductNumInput }}
+                        <span class="help-block">Format: AAA-9999-A</span>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</template>

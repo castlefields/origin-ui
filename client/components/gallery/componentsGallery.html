@@ -1,0 +1,361 @@
+<template name="simpleGallery">
+    <div class="box">
+        <div class="box-title"><h3><i class="icon-picture"></i> Simple gallery </h3></div>
+        <div class="box-content nopadding">
+            <div class="highlight-toolbar">
+                <div class="pull-left">
+                    <div class="btn-toolbar">
+                        <div class="btn-group"><select name="cat" id="cat" class='chosen-select'
+                                                       data-placeholder="Filter category">
+                            <option value=""></option>
+                            <option value="opt-1">Category-1</option>
+                            <option value="opt-2">Category-2</option>
+                            <option value="opt-3">Category-3</option>
+                            <option value="opt-4">Category-4</option>
+                            <option value="opt-5">Category-5</option>
+                        </select></div>
+                        <div class="btn-group"><select name="sort" id="sort" class='chosen-select'
+                                                       data-placeholder="Sort by" data-nosearch="true">
+                            <option value=""></option>
+                            <option value="sort-1">Date</option>
+                            <option value="sort-2">Author</option>
+                            <option value="sort-3">Category</option>
+                        </select></div>
+                        <div class="btn-group"><a href="#" class="btn" rel="tooltip" title="Apply filter"><i
+                                class="icon-ok"></i></a></div>
+                    </div>
+                </div>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                        <div class="btn-group"><a href="#" class="btn btn-danger" rel="tooltip"
+                                                  title="Upload new images"><i
+                                class="icon-cloud-upload"></i> Upload images</a></div>
+                    </div>
+                </div>
+            </div>
+            <ul class="gallery">
+                <li><a href="#"> <img src="/img/demo/1.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/1.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/2.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/2.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/3.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/3.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/4.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/4.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/5.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/5.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/6.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/6.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/7.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/7.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/8.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/8.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/9.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/9.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/10.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/10.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/11.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/11.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/12.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/12.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/13.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/13.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/14.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/14.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/15.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/15.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</template>
+
+<template name="masonryGallery">
+    <div class="box">
+        <div class="box-title"><h3><i class="icon-picture"></i> Dynamic position gallery (with animation)
+        </h3></div>
+        <div class="box-content nopadding">
+            <ul class="gallery gallery-dynamic">
+                <li><a href="#"> <img src="/img/demo/1_dyn.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/1.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/2_dyn.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/2.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/3_dyn.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/3.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/4_dyn.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/4.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/5_dyn.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/5.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/6_dyn.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/6.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/7_dyn.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/7.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/8_dyn.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/8.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/9_dyn.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/9.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/10_dyn.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/10.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/11.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/11.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/12.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/12.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/13.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/13.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/14.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/14.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+                <li><a href="#"> <img src="/img/demo/15.jpg" alt=""> </a>
+
+                    <div class="extras">
+                        <div class="extras-inner"><a href="/img/demo/big/15.jpg" class='colorbox-image'
+                                                     rel="group-1"><i class="icon-search"></i></a> <a
+                                href="#"><i class="icon-pencil"></i></a> <a href="#"
+                                                                            class='del-gallery-pic'><i
+                                class="icon-trash"></i></a></div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</template>
+
+<template name="componentsGallery">
+        {{> pageHeader }}
+        {{> breadcrumbs }}
+        <div class="row-fluid">
+            <div class="span12">
+                {{> simpleGallery }}
+            </div>
+        </div>
+</template>

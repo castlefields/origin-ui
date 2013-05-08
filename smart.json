@@ -1,0 +1,21 @@
+{
+  "meteor": {
+    "git": "https://github.com/meteor/meteor.git",
+    "branch": "master"
+  },
+  "packages": {
+    "router": {},
+    "jquery-ui": {},
+    "fullcalendar": {},
+    "select2": {},
+    "bootboxjs": {},
+    "jquery-imagesloaded": {},
+    "errors": {},
+    "bootstrap-datepicker": {},
+    "bootstrap-timepicker": {},
+    "jquery-ui-bootstrap": {},
+    "bootstrap-wysiwyg": {},
+    "jquery-masonry": {},
+    "datatables": {}
+  }
+}

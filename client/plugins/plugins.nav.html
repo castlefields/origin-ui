@@ -1,0 +1,20 @@
+<template name="pluginsNav">
+    <li class="{{isActive}}">
+        <a href="#" data-toggle="dropdown" class='dropdown-toggle'>
+            <span>Plugins</span>
+            <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu">
+            <li>
+                <a href="{{pluginsChartsPath}}">Charts</a>
+            </li>
+            <li>
+                <a href="{{pluginsCalendarPath}}">Calendar</a>
+            </li>
+            <li>
+                <a href="{{pluginsMapsPath}}">Maps</a>
+            </li>
+
+        </ul>
+    </li>
+</template>

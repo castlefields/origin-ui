@@ -1,0 +1,30 @@
+<template name="componentsStatistics">
+    {{> pageHeader }}
+    {{> breadcrumbs }}
+    <div class="row-fluid">
+        <div class="span4">
+            {{> audienceOverviewWidget }}
+        </div>
+        <div class="span4">
+            {{> hddUsageWidget }}
+        </div>
+        <div class="span4">
+            {{> cpuUsageWidget }}
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12">
+            {{> miniCharts }}
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12">
+            {{> badgedTiles }}
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12">
+            {{> statTiles }}
+        </div>
+    </div>
+</template>

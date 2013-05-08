@@ -1,0 +1,126 @@
+<template name="statTiles">
+    <div class="box">
+        <div class="box-title">
+            <h3>
+                <i class="icon-reorder"></i>
+                Tiles with statistics
+            </h3>
+        </div>
+        <div class="box-content">
+            <ul class="tiles tiles-center nomargin">
+                <li class="lightgrey has-chart">
+                    <a href="#"><span><div class="chart" data-percent="73" data-color="#ffffff" data-trackcolor="#333333">73%</div></span><span class='name'>HDD Usage</span></a>
+                </li>
+                <li class="lightred has-chart">
+                    <a href="#"><span><div class="chart" data-percent="73" data-color="#ffffff" data-trackcolor="#f96d6d">73%</div></span><span class='name'>Downloading</span></a>
+                </li>
+                <li class="blue has-chart">
+                    <a href="#"><span><div class="chart" data-percent="73" data-color="#ffffff" data-trackcolor="#5facf3">73%</div></span><span class='name'>Saving...</span></a>
+                </li>
+                <li class="satgreen has-chart-2">
+                    <a href="#"><span><div class="spark-me" sparkType="bar" sparkBarWidth="4" sparkHeight="55" sparkBarColor="#ffffff">12,44,52,43,36,25,40,38,30,28,43,36,25,40,38,30,28</div></span><span class='name'>Balance</span></a>
+                </li>
+                <li class="orange has-chart-2">
+                    <a href="#"><span><div class="spark-me" sparkWidth="90" sparkHeight="55" sparkLineColor="#ffffff" sparkFillColor="#f2d09b">12,44,52,43,36,25,40,38,30,28</div></span><span class='name'>Balance</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</template>
+
+<template name="badgedTiles">
+    <div class="box">
+        <div class="box-title">
+            <h3>
+                <i class="icon-reorder"></i>
+                Tiles with badges
+            </h3>
+        </div>
+        <div class="box-content">
+            <ul class="tiles tiles-center nomargin">
+                <li class="lightgrey">
+                    <span class="label label-info">17</span>
+                    <a href="#"><span><i class="icon-warning-sign"></i></span><span class='name'>Warnings</span></a>
+                </li>
+                <li class="lightred">
+                    <span class="label label-info">284</span>
+                    <a href="#"><span><i class="icon-bolt"></i></span><span class='name'>Cache</span></a>
+                </li>
+                <li class="blue">
+                    <span class="label label-important">444</span>
+                    <a href="#"><span><i class="icon-bar-chart"></i></span><span class='name'>Statistics</span></a>
+                </li>
+                <li class="satgreen">
+                    <span class="label label-inverse">5</span>
+                    <a href="#"><span><i class="icon-shopping-cart"></i></span><span class='name'>Open orders</span></a>
+                </li>
+                <li class="orange">
+                    <span class="label label-inverse">15</span>
+                    <a href="#"><span><i class="icon-comments"></i></span><span class='name'>Open tickets</span></a>
+                </li>
+            </ul>
+            <ul class="tiles tiles-center tiles-small">
+                <li class="lightgrey">
+                    <span class="label label-info">17</span>
+                    <a href="#"><span><i class="icon-warning-sign"></i></span><span class='name'>Warnings</span></a>
+                </li>
+                <li class="lightred">
+                    <span class="label label-info">284</span>
+                    <a href="#"><span><i class="icon-bolt"></i></span><span class='name'>Cache</span></a>
+                </li>
+                <li class="blue">
+                    <span class="label label-important">444</span>
+                    <a href="#"><span><i class="icon-bar-chart"></i></span><span class='name'>Statistics</span></a>
+                </li>
+                <li class="satgreen">
+                    <span class="label label-inverse">5</span>
+                    <a href="#"><span><i class="icon-shopping-cart"></i></span><span class='name'>Orders</span></a>
+                </li>
+                <li class="orange">
+                    <span class="label label-inverse">15</span>
+                    <a href="#"><span><i class="icon-comments"></i></span><span class='name'>Tickets</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</template>
+
+<template name="dateTile">
+    <li class='lightred'>
+        <i class="icon-calendar"></i>
+        <div class="details">
+            <span class="big">February 22, 2013</span>
+            <span>Wednesday, 13:56</span>
+        </div>
+    </li>
+</template>
+
+<template name="pageHeaderTiles">
+    <div class="pull-right">
+        <ul class="stats">
+            {{> dateTile }}
+        </ul>
+    </div>
+</template>
+        
+<template name="miniTiles">
+    <ul class="minitiles">
+        <li class='grey'>
+            <a href="#"><i class="icon-cogs"></i></a>
+        </li>
+        <li class='lightgrey'>
+            <a href="#"><i class="icon-globe"></i></a>
+        </li>
+    </ul>
+</template>
+        
+<template name="moneyTile">
+    <li class='satgreen'>
+        <i class="icon-money"></i>
+        <div class="details">
+            <span class="big">$324,12</span>
+            <span>Balance</span>
+        </div>
+    </li>
+</template>
+
