@@ -5,19 +5,9 @@ Meteor.Router.add({
         Session.set('error',true);
         return 'notFound';
     }},
-    '/pages/opportunityView': { as: 'opportunityView', to: function() {
-        Session.set('pageTitle','Opportunity View');
-        return 'opportunityView';
-    }},
     '/pages/userProfile': { as: 'userProfile', to: function() {
         Session.set('pageTitle','User Profile');
         return 'userProfile';
-    }},
-    '/pages/login': { as: 'login', to: function() {
-        $("body").addClass('login');
-        Session.set('pageTitle','Login');
-        Session.set('login', true);
-        return 'login';
     }}
 });
 

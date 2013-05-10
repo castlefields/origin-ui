@@ -1,5 +1,5 @@
 Meteor.Router.add({
-    '/': { as: 'dashboard', to: function() {
+    '/dashboard': { as: 'dashboard', to: function() {
         Session.set('pageTitle','Dashboard');
         return 'dashboard';
     }}

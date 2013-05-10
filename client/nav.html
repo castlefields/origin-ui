@@ -124,7 +124,7 @@
                     <a href="{{userProfilePath}}">Edit profile</a>
                 </li>
                 <li>
-                    <a href="more-login.html">Sign out</a>
+                    <a href="{{signoutPath}}">Sign out</a>
                 </li>
             </ul>
         </div>
@@ -134,7 +134,7 @@
 <template name="navigation">
     <div id="navigation">
         <div class="container-fluid">
-            <a href="{{dashboardPath}}" id="brand">Relief International</a>
+            <a href="{{dashboardPath}}" id="brand">{{brand}}</a>
             <a href="#" class="toggle-nav" rel="tooltip" data-placement="bottom"><i class="icon-reorder"></i></a>
             {{> mainNav }}
             {{> userNav }}

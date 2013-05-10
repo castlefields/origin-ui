@@ -341,14 +341,19 @@ function showTooltip(e, t, n) {
 var onlineUserArray = [255, 455, 385, 759, 500, 284, 581, 684, 255, 455, 385, 759, 500, 293, 585, 342, 684];
 var balanceArray = [255, 455, 385, 759, 500, 284, 581, 684, 255, 455, 385, 759, 500, 293, 585, 342, 684];
 
-
+Session.setDefault('brand', 'PaySys');
 Session.setDefault('pageTitle', 'Dashboard');
 Session.setDefault('seenGuide', false);
 Session.setDefault('error', false);
 
+
 Template.body.error = function () {
     return Session.get('error');
 }
+
+Handlebars.registerHelper('brand', function () {
+    return Session.get('brand');
+});
 
 Template.pageTitle.title = function () {
     return Session.get('pageTitle');

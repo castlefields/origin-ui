@@ -7,7 +7,7 @@ Template.dashboard.rendered = function () {
         {target: ".colo", content: "Here you can choose between 9 different colors for this theme!", direction: "bottom"},
         {target: ".sett", content: "Here you can choose between fixed and fluid layout!", direction: "bottom"}
     ]};
-    if (( location.pathname == "/" || location.pathname == "" ) && location.host == "localhost:3000" && $(window).width() > 767) {
+    if ($(window).width() > 767) {
         if(Session.equals('seenGuide', false)) {
             Session.set('seenGuide', true);
             bootbox.animate(!1);

@@ -1,6 +1,6 @@
 <template name="login">
     <div class="wrapper">
-        <h2 style="color:white;"><img src="/img/logo-big.png" alt="" class='retina-ready' width="59" height="49"> Relief International</h2>
+        <h2 style="color:white;"><img src="/img/logo-big.png" alt="" class='retina-ready' width="59" height="49"> {{brand}}</h2>
         <div class="login-body">
             <h2>SIGN IN</h2>
             <form class='form-validate' id="test">
@@ -15,9 +15,6 @@
                     </div>
                 </div>
                 <div class="submit">
-                    <div class="remember">
-                        <input type="checkbox" name="remember" class='icheck-me' data-skin="square" data-color="blue" id="remember"> <label for="remember">Remember me</label>
-                    </div>
                     <a href="{{dashboardPath}}" class='btn btn-primary submit'>Sign Me In</a>
                 </div>
             </form>

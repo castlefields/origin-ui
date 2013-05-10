@@ -1,6 +1,6 @@
 Template.login.events({
     'click .submit': function () {
-        Session.set('login',false);
+        Session.set('error',false);
         $('body').removeClass('login');
     }
 });

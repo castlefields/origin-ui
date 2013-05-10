@@ -2,28 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70c8cc5e-cef9-4626-8d54-fd26a9e96096" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/client/pages/login.html" afterPath="$PROJECT_DIR$/client/error/login.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/client/pages/login.js" afterPath="$PROJECT_DIR$/client/error/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/logo-big.png" afterPath="$PROJECT_DIR$/public/img/logo-big.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/logo.png" afterPath="$PROJECT_DIR$/public/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/dashboard/dashboard.js" afterPath="$PROJECT_DIR$/client/dashboard/dashboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/dashboard/dashboard.routes.js" afterPath="$PROJECT_DIR$/client/dashboard/dashboard.routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.html" afterPath="$PROJECT_DIR$/client/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.js" afterPath="$PROJECT_DIR$/client/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/nav.html" afterPath="$PROJECT_DIR$/client/nav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/pages/pages.nav.html" afterPath="$PROJECT_DIR$/client/pages/pages.nav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/pages/pages.routes.js" afterPath="$PROJECT_DIR$/client/pages/pages.routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/routes.js" afterPath="$PROJECT_DIR$/client/routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/css/style.css" afterPath="$PROJECT_DIR$/client/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="admin.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/admin.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367408467906" ignored="false" />
     <file path="/chosen.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367409714585" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/app.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/vmap/jquery.vmap.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899751830" ignored="false" />
     <file path="/theme.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367463828052" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/theme.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367464240572" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/startup/startup_client.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367409896987" ignored="false" />
     <file path="/eakroko.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367456440930" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/eakroko.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367456460261" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/css/style.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367924142369" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367924142369" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap-responsive.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367924142369" ignored="false" />
     <file path="/users.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367480025088" ignored="false" />
     <file path="/tasks.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367486194873" ignored="false" />
     <file path="/admin.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367403868859" ignored="false" />
-    <file path="/nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922918229" ignored="false" />
-    <file path="/sidebar.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367908718370" ignored="false" />
+    <file path="/nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1368165874450" ignored="false" />
+    <file path="/sidebar.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1368166185175" ignored="false" />
     <file path="/tiles.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367908058096" ignored="false" />
     <file path="/widgets.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367470059540" ignored="false" />
     <file path="/dashboard.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367959425805" ignored="false" />
@@ -38,21 +46,17 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/theme-demo.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367461326566" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/http/httpcall_client.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367494761013" ignored="false" />
     <file path="/basic.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367466030380" ignored="false" />
-    <file path="/routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367465171610" ignored="false" />
-    <file path="/main.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367494943327" ignored="false" />
-    <file path="/main.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367984790264" ignored="false" />
-    <file path="/a.dummy" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922056866" ignored="false" />
+    <file path="/routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1368165573127" ignored="false" />
+    <file path="/main.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1368165788312" ignored="false" />
+    <file path="/main.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1368165905680" ignored="false" />
+    <file path="/a.dummy" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1368166741048" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/widgets/template.widgets.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367488826057" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/template.navigation.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367468669982" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/users/template.users.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367480379195" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/templating/deftemplate.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923377284" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/pages/dashboard.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367468072572" ignored="false" />
     <file path="/dashboard.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367882554997" ignored="false" />
     <file path="/forms.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367471353775" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/accounts-google/google_login_button.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/accounts-ui/login_buttons.less.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
     <file path="/formsNav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367469601050" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/css/theme.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922303069" ignored="false" />
     <file path="/formsBasic.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367879588707" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/js/bootstrap.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367471459316" ignored="false" />
     <file path="/forms.nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367919592094" ignored="false" />
@@ -64,58 +68,7 @@
     <file path="/pages.nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923742907" ignored="false" />
     <file path="/pages.routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923764099" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/template.nav.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367480208944" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/blue.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/yellow.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/purple.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/_all.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/aero.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/flat.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/pink.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/grey.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/red.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/green.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/flat/orange.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/blue.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/yellow.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/purple.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/_all.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/aero.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/red.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/line.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/grey.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/pink.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/green.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/line/orange.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/blue.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/yellow.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/purple.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/_all.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/aero.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/square.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/red.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/pink.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/grey.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/green.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/square/orange.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/blue.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/yellow.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/purple.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/select2/select2.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367480379195" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/_all.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/aero.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/red.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/orange.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/grey.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/pink.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/green.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/minimal/minimal.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/polaris/polaris.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/futurico/futurico.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/pageguide/pageguide.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap-override.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/chosen/chosen.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/fullcalendar/css/fullcalendar.print.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/icheck/all.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367887567107" ignored="false" />
     <file path="/dashboard.nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367482596654" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/nicescroll/jquery.nicescroll.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367483424399" ignored="false" />
     <file path="/notFound.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367484183577" ignored="false" />
@@ -129,11 +82,9 @@
     <file path="/userRegion.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367489669187" ignored="false" />
     <file path="/calendar.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367490362690" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/widgets/hddUsage/hddUsage.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899751830" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/widgets/feeds/feeds.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922303069" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/widgets/feeds/template.feeds.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367491813892" ignored="false" />
     <file path="/feeds.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367491740572" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/widgets/audienceOverview/audienceOverview.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899751830" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/users/widgets/addressBook/addressBook.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922303069" ignored="false" />
     <file path="/chat.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367492604508" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/tasks/widgets/taskList/taskList.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888861268" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/messages/widgets/chat/chat.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899631252" ignored="false" />
@@ -141,10 +92,8 @@
     <file path="/bootstrap-timepicker.min.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367498450543" ignored="false" />
     <file path="/colorpicker.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367498494052" ignored="false" />
     <file path="/wysiwyg.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367897290321" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery-ui-bootstrap/css/jquery-ui-1.9.2.custom.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367924142369" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/minimongo/minimongo.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367909552469" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/accounts-ui-unstyled/login_buttons_dropdown.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904769365" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/handlebars/evaluate.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367558944056" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/users/widgets/userRegion/userRegion.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367899751830" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/select2/select2/select2.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888861267" ignored="false" />
     <file path="/advancedElements.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367876762367" ignored="false" />
@@ -157,16 +106,6 @@
     <file path="/select2.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888840035" ignored="false" />
     <file path="/pluginElements.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367889581414" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/widgets/wysiwyg/bootstrap-wysiwyg.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367887549525" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/plupload/jquery.plupload.queue.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/tagsInput/jquery.tagsInput.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/fullcalendar/css/fullcalendar.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/multiselect/multiselect.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery-ui-bootstrap/css/jquery.ui.1.9.2.ie.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/colorpicker/colorpicker.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/datepicker/bootstrap-datepicker.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap-timepicker/lib/bootstrap-timepicker/css/bootstrap-timepicker.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/select2/select2/select2.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery-ui/lib/jquery-ui-1.9.2.custom.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923377284" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/fullcalendar/lib/fullcalendar.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367918925929" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/elements/select2/select2.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888924075" ignored="false" />
     <file path="/elements.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367888149166" ignored="false" />
@@ -187,11 +126,9 @@
     <file path="/components.routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367914046443" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/timeline.source.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367903669135" ignored="false" />
     <file path="/components.nav.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367914090596" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/dependencies.json" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/plupload/plupload.full.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904095822" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/README" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static/font/fontawesome-webfont.svg" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/app.json" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/jquery.form.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904143255" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/server/server.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904769365" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/PlayfairDisplay-Muli.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
@@ -210,7 +147,6 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/PTSerif-PTSans.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/NixieOne-Ledger.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/timeline/css/themes/font/Pacifico-Arimo.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/elements/wysiwyg/wysiwyg.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904396813" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/flot/jquery.flot.resize.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367904769365" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/livedata/stream_client_nodejs.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367909552469" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/wizard/jquery.form.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367905353075" ignored="false" />
@@ -220,8 +156,6 @@
     <file path="/cpuUsage.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367907375346" ignored="false" />
     <file path="/miniCharts.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367907862282" ignored="false" />
     <file path="/sidebar.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367920653067" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/main.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923377284" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/forms/validation/jquery.validate.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922303069" ignored="false" />
     <file path="/componentsMessages.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367910370656" ignored="false" />
     <file path="/chat.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367909840564" ignored="false" />
     <file path="/componentsGallery.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367911183258" ignored="false" />
@@ -255,12 +189,12 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/components/messages/widgets/chat/chat.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922303069" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/gmap/gmap3.min.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922370105" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/pluginsMaps.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922977955" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/plugins/gmap/gmap3-menu.css" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367922457065" ignored="false" />
     <file path="/opportunityView.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923404249" ignored="false" />
     <file path="/userProfile.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923604593" ignored="false" />
-    <file path="/login.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367924214135" ignored="false" />
+    <file path="/login.html" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1368165376496" ignored="false" />
     <file path="/login.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1367923968159" ignored="false" />
-    <file path="/Dummy.txt" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1368004342707" ignored="false" />
+    <file path="/Dummy.txt" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1368163340637" ignored="false" />
+    <file path="/dashboard.routes.js" changelist="70c8cc5e-cef9-4626-8d54-fd26a9e96096" time="1368164421768" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,10 +214,351 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="componentsUIElements.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/components/UIElements/componentsUIElements.html">
+      <file leaf-file-name="sidebar.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/sidebar/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="476" column="0" selection-start="37325" selection-end="37325" vertical-scroll-proportion="0.01687289">
+            <state line="277" column="8" selection-start="9443" selection-end="9443" vertical-scroll-proportion="-13.125">
+              <folding>
+                <element signature="tag#template#0" expanded="false" />
+                <element signature="tag#form#0;tag#template#0" expanded="false" />
+                <element signature="tag#div#0;tag#form#0;tag#template#0" expanded="false" />
+                <element signature="tag#template#1" expanded="false" />
+                <element signature="tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#li#0;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#li#1;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#li#2;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#ul#0;tag#li#2;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#li#0;tag#ul#0;tag#li#2;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#li#1;tag#ul#0;tag#li#2;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#li#2;tag#ul#0;tag#li#2;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#li#1;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#li#2;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#li#3;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+                <element signature="tag#template#2" expanded="false" />
+                <element signature="tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#li#0;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#li#0;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#li#1;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#li#2;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#ul#0;tag#li#2;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#li#0;tag#ul#0;tag#li#2;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#li#1;tag#ul#0;tag#li#2;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#li#2;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+                <element signature="tag#template#3" expanded="false" />
+                <element signature="tag#div#0;tag#template#3" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#template#3" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#template#3" expanded="false" />
+                <element signature="tag#div#0;tag#div#1;tag#div#0;tag#template#3" expanded="false" />
+                <element signature="tag#div#1;tag#template#3" expanded="false" />
+                <element signature="tag#div#0;tag#div#1;tag#template#3" expanded="false" />
+                <element signature="tag#div#1;tag#div#1;tag#template#3" expanded="false" />
+                <element signature="tag#div#0;tag#div#1;tag#div#1;tag#template#3" expanded="false" />
+                <element signature="tag#template#4" expanded="false" />
+                <element signature="tag#div#0;tag#template#4" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#template#4" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+                <element signature="tag#div#0;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+                <element signature="tag#div#1;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+                <element signature="tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+                <element signature="tag#div#2;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+                <element signature="tag#div#0;tag#div#2;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+                <element signature="tag#template#5" expanded="false" />
+                <element signature="tag#div#0;tag#template#5" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#template#5" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+                <element signature="tag#ul#0;tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+                <element signature="tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+                <element signature="tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+                <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+                <element signature="tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+                <element signature="tag#template#6" expanded="false" />
+                <element signature="tag#div#0;tag#template#6" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#template#6" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#template#6" expanded="false" />
+                <element signature="tag#template#7" expanded="false" />
+                <element signature="tag#div#0;tag#template#7" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#template#7" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#template#7" expanded="false" />
+                <element signature="tag#template#8" expanded="false" />
+                <element signature="tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#0;tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#span#0;tag#div#0;tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#span#1;tag#div#0;tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#1;tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#0;tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#span#0;tag#div#0;tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#span#1;tag#div#0;tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#1;tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#0;tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#span#0;tag#div#0;tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#span#1;tag#div#0;tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#1;tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#0;tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#span#0;tag#div#0;tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#span#1;tag#div#0;tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#1;tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#0;tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#span#0;tag#div#0;tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#span#1;tag#div#0;tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+                <element signature="tag#div#1;tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="44" selection-start="3154" selection-end="3166" vertical-scroll-proportion="-4.9166665">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="337" column="152" selection-start="11046" selection-end="11050" vertical-scroll-proportion="-7.64">
+              <folding>
+                <element signature="n#!!block;n#sidebarFluid#0" expanded="false" />
+                <element signature="e#85#239#0" expanded="false" />
+                <element signature="e#139#231#0" expanded="false" />
+                <element signature="e#295#337#0" expanded="false" />
+                <element signature="n#!!block;n#sidebarFixed#0" expanded="false" />
+                <element signature="e#657#725#0" expanded="false" />
+                <element signature="n#!!block;n#topbarFixed#0" expanded="false" />
+                <element signature="e#959#1001#0" expanded="false" />
+                <element signature="n#!!block;n#topbarFluid#0" expanded="false" />
+                <element signature="e#1210#1251#0" expanded="false" />
+                <element signature="n#!!block;n#versionFixed#0" expanded="false" />
+                <element signature="e#1316#1622#0" expanded="false" />
+                <element signature="e#1540#1616#0" expanded="false" />
+                <element signature="n#!!block;n#versionFluid#0" expanded="false" />
+                <element signature="n#!!block;n#slimScrollUpdate#0" expanded="false" />
+                <element signature="e#1911#2439#0" expanded="false" />
+                <element signature="e#2138#2229#0" expanded="false" />
+                <element signature="e#2248#2337#0" expanded="false" />
+                <element signature="n#!!block;n#destroySlimscroll#0" expanded="false" />
+                <element signature="n#!!block;n#initSidebarScroll#0" expanded="false" />
+                <element signature="e#2622#3066#0" expanded="false" />
+                <element signature="e#2654#2886#0" expanded="false" />
+                <element signature="e#2742#2806#0" expanded="false" />
+                <element signature="e#3015#3058#0" expanded="false" />
+                <element signature="e#3072#3131#0" expanded="false" />
+                <element signature="n#!!block;n#getSidebarScrollHeight#0" expanded="false" />
+                <element signature="e#3461#3496#0" expanded="false" />
+                <element signature="n#!!block;n#checkLeftNav#0" expanded="false" />
+                <element signature="e#3639#4027#0" expanded="false" />
+                <element signature="e#3685#3768#0" expanded="false" />
+                <element signature="e#3814#3938#0" expanded="false" />
+                <element signature="e#3982#4021#0" expanded="false" />
+                <element signature="e#4033#4704#0" expanded="false" />
+                <element signature="e#4145#4240#0" expanded="false" />
+                <element signature="e#4374#4494#0" expanded="false" />
+                <element signature="e#4527#4698#0" expanded="false" />
+                <element signature="e#4585#4688#0" expanded="false" />
+                <element signature="n#!!block;n#resizeHandlerHeight#0" expanded="false" />
+                <element signature="n#!!block;n#toggleMobileNav#0" expanded="false" />
+                <element signature="n#!!block;n#getNavElement#0" expanded="false" />
+                <element signature="e#5313#5380#0" expanded="false" />
+                <element signature="n#!!block;n#getNav#0" expanded="false" />
+                <element signature="e#5561#5614#0" expanded="false" />
+                <element signature="n#!!block;n#createSubNav#0" expanded="false" />
+                <element signature="e#5756#6692#0" expanded="false" />
+                <element signature="e#6035#6684#0" expanded="false" />
+                <element signature="e#6169#6674#0" expanded="false" />
+                <element signature="e#6327#6525#0" expanded="false" />
+                <element signature="n#!!block;n#hideNav#0" expanded="false" />
+                <element signature="e#6804#6870#0" expanded="false" />
+                <element signature="e#6876#6925#0" expanded="false" />
+                <element signature="n#!!block;n#scrolledClone#0" expanded="false" />
+                <element signature="n#!!block;n#resizeContent#0" expanded="false" />
+                <element signature="e#7108#7363#0" expanded="false" />
+                <element signature="e#7172#7233#0" expanded="false" />
+                <element signature="e#7260#7355#0" expanded="false" />
+                <element signature="e#7381#8329#0" expanded="false" />
+                <element signature="e#7424#8327#0" expanded="false" />
+                <element signature="e#7434#7474#0" expanded="false" />
+                <element signature="e#7706#8300#0" expanded="false" />
+                <element signature="e#7756#8288#0" expanded="false" />
+                <element signature="e#8137#8272#0" expanded="false" />
+                <element signature="e#8193#8271#0" expanded="false" />
+                <element signature="n#!!block;n#icheck#0" expanded="false" />
+                <element signature="e#8397#8904#0" expanded="false" />
+                <element signature="e#8440#8896#0" expanded="false" />
+                <element signature="e#8693#8856#0" expanded="false" />
+                <element signature="n#!!block;n#resize_chosen#0" expanded="false" />
+                <element signature="e#8977#9235#0" expanded="false" />
+                <element signature="n#!!block;n#getUser#0" expanded="false" />
+                <element signature="n#!!block;n#createOnlineUserStatistic#0" expanded="false" />
+                <element signature="e#9708#9751#0" expanded="false" />
+                <element signature="n#!!block;n#getBalance#0" expanded="false" />
+                <element signature="n#!!block;n#createBalanceStatistic#0" expanded="false" />
+                <element signature="e#10237#10277#0" expanded="false" />
+                <element signature="n#!!block;n#currentTime#0" expanded="false" />
+                <element signature="e#10828#10857#0" expanded="false" />
+                <element signature="e#11645#11685#0" expanded="false" />
+                <element signature="e#11920#11950#0" expanded="false" />
+                <element signature="e#12029#12878#0" expanded="false" />
+                <element signature="e#12068#12870#0" expanded="false" />
+                <element signature="e#12234#12297#0" expanded="false" />
+                <element signature="e#12315#12619#0" expanded="false" />
+                <element signature="e#12379#12437#0" expanded="false" />
+                <element signature="e#12547#12605#0" expanded="false" />
+                <element signature="e#12649#12858#0" expanded="false" />
+                <element signature="e#12967#13049#0" expanded="false" />
+                <element signature="e#12990#13043#0" expanded="false" />
+                <element signature="e#13104#13233#0" expanded="false" />
+                <element signature="e#13139#13225#0" expanded="false" />
+                <element signature="e#13297#13593#0" expanded="false" />
+                <element signature="e#13344#13585#0" expanded="false" />
+                <element signature="e#13646#14737#0" expanded="false" />
+                <element signature="e#13688#14729#0" expanded="false" />
+                <element signature="e#13831#14195#0" expanded="false" />
+                <element signature="e#13882#14180#0" expanded="false" />
+                <element signature="e#14249#14687#0" expanded="false" />
+                <element signature="e#14344#14672#0" expanded="false" />
+                <element signature="e#14477#14585#0" expanded="false" />
+                <element signature="e#14780#14935#0" expanded="false" />
+                <element signature="e#14820#14927#0" expanded="false" />
+                <element signature="e#14989#16044#0" expanded="false" />
+                <element signature="e#15028#16036#0" expanded="false" />
+                <element signature="e#15206#15800#0" expanded="false" />
+                <element signature="e#15352#15435#0" expanded="false" />
+                <element signature="e#15481#15603#0" expanded="false" />
+                <element signature="e#15647#15786#0" expanded="false" />
+                <element signature="e#15827#16026#0" expanded="false" />
+                <element signature="e#15870#15945#0" expanded="false" />
+                <element signature="e#16104#16841#0" expanded="false" />
+                <element signature="e#16151#16833#0" expanded="false" />
+                <element signature="e#16227#16821#0" expanded="false" />
+                <element signature="e#16373#16456#0" expanded="false" />
+                <element signature="e#16502#16624#0" expanded="false" />
+                <element signature="e#16668#16807#0" expanded="false" />
+                <element signature="e#16965#17079#0" expanded="false" />
+                <element signature="e#17003#17071#0" expanded="false" />
+                <element signature="e#17153#17214#0" expanded="false" />
+                <element signature="e#17339#17375#0" expanded="false" />
+                <element signature="e#17480#17792#0" expanded="false" />
+                <element signature="e#17517#17628#0" expanded="false" />
+                <element signature="e#17664#17741#0" expanded="false" />
+                <element signature="e#17861#18062#0" expanded="false" />
+                <element signature="e#17918#18054#0" expanded="false" />
+                <element signature="e#18125#18504#0" expanded="false" />
+                <element signature="e#18180#18498#0" expanded="false" />
+                <element signature="e#18282#18350#0" expanded="false" />
+                <element signature="e#18356#18488#0" expanded="false" />
+                <element signature="e#18518#18702#0" expanded="false" />
+                <element signature="e#18573#18696#0" expanded="false" />
+                <element signature="e#19133#19236#0" expanded="false" />
+                <element signature="e#19377#19437#0" expanded="false" />
+                <element signature="e#19481#19541#0" expanded="false" />
+                <element signature="e#19557#19599#0" expanded="false" />
+                <element signature="e#19675#20020#0" expanded="false" />
+                <element signature="e#19822#20006#0" expanded="false" />
+                <element signature="e#20290#20659#0" expanded="false" />
+                <element signature="e#20719#21220#0" expanded="false" />
+                <element signature="e#20928#21206#0" expanded="false" />
+                <element signature="e#21025#21194#0" expanded="false" />
+                <element signature="e#21265#21366#0" expanded="false" />
+                <element signature="e#21397#21461#0" expanded="false" />
+                <element signature="e#21574#21646#0" expanded="false" />
+                <element signature="e#21714#21776#0" expanded="false" />
+                <element signature="e#21825#22354#0" expanded="false" />
+                <element signature="e#21994#22346#0" expanded="false" />
+                <element signature="e#22141#22235#0" expanded="false" />
+                <element signature="e#22241#22336#0" expanded="false" />
+                <element signature="e#22402#23350#0" expanded="false" />
+                <element signature="e#22741#22845#0" expanded="false" />
+                <element signature="e#23053#23342#0" expanded="false" />
+                <element signature="e#23074#23332#0" expanded="false" />
+                <element signature="e#23179#23318#0" expanded="false" />
+                <element signature="e#23399#23609#0" expanded="false" />
+                <element signature="e#23532#23595#0" expanded="false" />
+                <element signature="e#23645#23834#0" expanded="false" />
+                <element signature="e#23881#24342#0" expanded="false" />
+                <element signature="e#24231#24336#0" expanded="false" />
+                <element signature="e#24370#24563#0" expanded="false" />
+                <element signature="e#24604#25240#0" expanded="false" />
+                <element signature="e#24648#25232#0" expanded="false" />
+                <element signature="e#24919#25065#0" expanded="false" />
+                <element signature="e#25088#25189#0" expanded="false" />
+                <element signature="e#25288#25915#0" expanded="false" />
+                <element signature="e#25319#25909#0" expanded="false" />
+                <element signature="e#25562#25669#0" expanded="false" />
+                <element signature="e#25692#25793#0" expanded="false" />
+                <element signature="e#25961#26915#0" expanded="false" />
+                <element signature="e#25992#26907#0" expanded="false" />
+                <element signature="e#26087#26652#0" expanded="false" />
+                <element signature="e#26246#26311#0" expanded="false" />
+                <element signature="e#26371#26544#0" expanded="false" />
+                <element signature="e#26550#26637#0" expanded="false" />
+                <element signature="e#26684#26774#0" expanded="false" />
+                <element signature="e#26807#26897#0" expanded="false" />
+                <element signature="e#26992#27046#0" expanded="false" />
+                <element signature="e#27096#27122#0" expanded="false" />
+                <element signature="e#27174#27300#0" expanded="false" />
+                <element signature="e#27592#27843#0" expanded="false" />
+                <element signature="e#27759#27837#0" expanded="false" />
+                <element signature="e#28597#29104#0" expanded="false" />
+                <element signature="e#28756#28862#0" expanded="false" />
+                <element signature="e#29014#29053#0" expanded="false" />
+                <element signature="e#29059#29098#0" expanded="false" />
+                <element signature="e#29184#29263#0" expanded="false" />
+                <element signature="e#29300#30225#0" expanded="false" />
+                <element signature="e#29458#29533#0" expanded="false" />
+                <element signature="e#29539#29873#0" expanded="false" />
+                <element signature="e#29631#29692#0" expanded="false" />
+                <element signature="e#29698#29799#0" expanded="false" />
+                <element signature="e#29965#30152#0" expanded="false" />
+                <element signature="e#30004#30079#0" expanded="false" />
+                <element signature="e#30085#30142#0" expanded="false" />
+                <element signature="e#30263#30353#0" expanded="false" />
+                <element signature="e#30445#30883#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4371" column="23" selection-start="85230" selection-end="85237" vertical-scroll-proportion="-3.5882354">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages.nav.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/pages/pages.nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="17" selection-start="337" selection-end="337" vertical-scroll-proportion="-5.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages.routes.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/pages/pages.routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="7" selection-start="235" selection-end="235" vertical-scroll-proportion="0.14681892">
               <folding />
             </state>
           </provider>
@@ -307,22 +582,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/client/plugins/plugins.routes.js" />
-        <option value="$PROJECT_DIR$/client/plugins/plugins.nav.html" />
-        <option value="$PROJECT_DIR$/client/plugins/pluginsMaps.html" />
-        <option value="$PROJECT_DIR$/client/plugins/gmap/api.js" />
-        <option value="$PROJECT_DIR$/client/main.js" />
-        <option value="$PROJECT_DIR$/client/nav.html" />
-        <option value="$PROJECT_DIR$/client/plugins/pluginsMaps.js" />
-        <option value="$PROJECT_DIR$/client/pages/opportunityView.html" />
-        <option value="$PROJECT_DIR$/client/pages/userProfile.html" />
-        <option value="$PROJECT_DIR$/client/pages/pages.routes.js" />
         <option value="$PROJECT_DIR$/client/pages/login.js" />
         <option value="$PROJECT_DIR$/client/pages/login.html" />
-        <option value="$PROJECT_DIR$/client/pages/pages.nav.html" />
         <option value="$PROJECT_DIR$/client/dashboard/dashboard.html" />
-        <option value="$PROJECT_DIR$/client/main.html" />
         <option value="$PROJECT_DIR$/client/components/UIElements/componentsUIElements.html" />
+        <option value="$PROJECT_DIR$/client/dashboard/dashboard.routes.js" />
+        <option value="$PROJECT_DIR$/client/error/login.js" />
+        <option value="$PROJECT_DIR$/client/error/login.html" />
+        <option value="$PROJECT_DIR$/client/routes.js" />
+        <option value="$PROJECT_DIR$/client/main.js" />
+        <option value="$PROJECT_DIR$/client/nav.html" />
+        <option value="$PROJECT_DIR$/client/main.html" />
+        <option value="$PROJECT_DIR$/client/dashboard/dashboard.js" />
+        <option value="$PROJECT_DIR$/client/sidebar/sidebar.html" />
+        <option value="$PROJECT_DIR$/client/css/style.css" />
+        <option value="$PROJECT_DIR$/client/pages/pages.nav.html" />
+        <option value="$PROJECT_DIR$/client/pages/pages.routes.js" />
       </list>
     </option>
   </component>
@@ -372,7 +647,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -405,28 +679,58 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../relief-international/ri-opportunity-tracker" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="cde965a0-bf60-4d03-ad52-fcdfb153c629">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/error" />
       <recent name="$PROJECT_DIR$/client/forms/elements/editableElements/xeditable/source" />
       <recent name="$PROJECT_DIR$/client/plugins/charts" />
       <recent name="$PROJECT_DIR$/client/plugins" />
       <recent name="$PROJECT_DIR$/public/json/datatables" />
-      <recent name="$PROJECT_DIR$/public/swf/datatables" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js Remote Debug.Admin">
@@ -438,10 +742,6 @@
       <option name="testName" />
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
-      <node-js-remote-debug />
-      <method />
-    </configuration>
     <configuration default="true" type="NodeunitConfigurationType" factoryName="Nodeunit">
       <setting name="nodePath" value="/usr/local/bin/node" />
       <envs />
@@ -450,6 +750,10 @@
       <setting name="workingDirectory" value="$PROJECT_DIR$" />
       <setting name="testType" value="JS_FILE" />
       <setting name="jsFile" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
@@ -520,12 +824,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32983193" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32809225" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984913" sideWeight="0.6719078" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984913" sideWeight="0.6719078" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39937106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -534,7 +839,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32809225" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -603,84 +907,410 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/plugins/pluginsMaps.js">
+    <entry file="file://$PROJECT_DIR$/client/error/error.routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="1" selection-start="2446" selection-end="2446" vertical-scroll-proportion="0.95" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/main.js">
+    <entry file="file://$PROJECT_DIR$/client/dashboard/dashboard.routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="931" column="0" selection-start="30883" selection-end="30883" vertical-scroll-proportion="2.4086957" />
+        <state line="1" column="15" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/pages/opportunityView.html">
+    <entry file="file://$PROJECT_DIR$/client/error/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="78" selection-end="78" vertical-scroll-proportion="0.050933786" />
+        <state line="16" column="34" selection-start="904" selection-end="904" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/pages/userProfile.html">
+    <entry file="file://$PROJECT_DIR$/client/routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="102" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.81669694" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/pages/pages.routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="33" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" />
+        <state line="13" column="7" selection-start="523" selection-end="523" vertical-scroll-proportion="0.31810766">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/error/notFound.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="145" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="145" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/pages/login.js">
+    <entry file="file://$PROJECT_DIR$/client/dashboard/dashboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/pages/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="32" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/pages/pages.nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="17" selection-start="541" selection-end="541" vertical-scroll-proportion="-9.375" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/tasks/widgets/taskList/taskList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="30" selection-start="16" selection-end="30" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/dashboard/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="183" selection-end="183" vertical-scroll-proportion="0.11666667" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/plugins/pluginsMaps.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="10" selection-start="79" selection-end="2312" vertical-scroll-proportion="0.8666667" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="71" selection-start="5224" selection-end="5224" vertical-scroll-proportion="0.6166667" />
+        <state line="9" column="8" selection-start="956" selection-end="956" vertical-scroll-proportion="0.225">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="22" selection-start="678" selection-end="678" vertical-scroll-proportion="0.016629713" />
+        <state line="1" column="31" selection-start="38" selection-end="38" vertical-scroll-proportion="-0.4074703">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/components.routes.js">
+    <entry file="file://$PROJECT_DIR$/client/error/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="2" column="26" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/UIElements/componentsUIElements.html">
+    <entry file="file://$PROJECT_DIR$/client/sidebar/sidebar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="476" column="0" selection-start="37325" selection-end="37325" vertical-scroll-proportion="0.01687289">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/sidebar/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="277" column="8" selection-start="9443" selection-end="9443" vertical-scroll-proportion="-13.125">
+          <folding>
+            <element signature="tag#template#0" expanded="false" />
+            <element signature="tag#form#0;tag#template#0" expanded="false" />
+            <element signature="tag#div#0;tag#form#0;tag#template#0" expanded="false" />
+            <element signature="tag#template#1" expanded="false" />
+            <element signature="tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#li#0;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#li#1;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#li#2;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#ul#0;tag#li#2;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#li#0;tag#ul#0;tag#li#2;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#li#1;tag#ul#0;tag#li#2;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#li#2;tag#ul#0;tag#li#2;tag#ul#0;tag#li#0;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#li#1;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#li#2;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#li#3;tag#ul#0;tag#div#0;tag#template#1" expanded="false" />
+            <element signature="tag#template#2" expanded="false" />
+            <element signature="tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#li#0;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#li#0;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#li#1;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#li#2;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#ul#0;tag#li#2;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#li#0;tag#ul#0;tag#li#2;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#li#1;tag#ul#0;tag#li#2;tag#ul#0;tag#li#1;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#li#2;tag#ul#0;tag#div#0;tag#template#2" expanded="false" />
+            <element signature="tag#template#3" expanded="false" />
+            <element signature="tag#div#0;tag#template#3" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#template#3" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#template#3" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#template#3" expanded="false" />
+            <element signature="tag#div#1;tag#template#3" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#template#3" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#template#3" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#1;tag#template#3" expanded="false" />
+            <element signature="tag#template#4" expanded="false" />
+            <element signature="tag#div#0;tag#template#4" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#template#4" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+            <element signature="tag#div#2;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+            <element signature="tag#div#0;tag#div#2;tag#div#1;tag#div#0;tag#template#4" expanded="false" />
+            <element signature="tag#template#5" expanded="false" />
+            <element signature="tag#div#0;tag#template#5" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#template#5" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+            <element signature="tag#ul#0;tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+            <element signature="tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+            <element signature="tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+            <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+            <element signature="tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#5" expanded="false" />
+            <element signature="tag#template#6" expanded="false" />
+            <element signature="tag#div#0;tag#template#6" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#template#6" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#template#6" expanded="false" />
+            <element signature="tag#template#7" expanded="false" />
+            <element signature="tag#div#0;tag#template#7" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#template#7" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#template#7" expanded="false" />
+            <element signature="tag#template#8" expanded="false" />
+            <element signature="tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#0;tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#span#0;tag#div#0;tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#span#1;tag#div#0;tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#1;tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#0;tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#span#0;tag#div#0;tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#span#1;tag#div#0;tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#1;tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#0;tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#span#0;tag#div#0;tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#span#1;tag#div#0;tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#1;tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#0;tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#span#0;tag#div#0;tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#span#1;tag#div#0;tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#1;tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#0;tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#span#0;tag#div#0;tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#span#1;tag#div#0;tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+            <element signature="tag#div#1;tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#template#8" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="44" selection-start="3154" selection-end="3166" vertical-scroll-proportion="-4.9166665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="36" selection-start="1835" selection-end="1835" vertical-scroll-proportion="1.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="337" column="152" selection-start="11046" selection-end="11050" vertical-scroll-proportion="-7.64">
+          <folding>
+            <element signature="n#!!block;n#sidebarFluid#0" expanded="false" />
+            <element signature="e#85#239#0" expanded="false" />
+            <element signature="e#139#231#0" expanded="false" />
+            <element signature="e#295#337#0" expanded="false" />
+            <element signature="n#!!block;n#sidebarFixed#0" expanded="false" />
+            <element signature="e#657#725#0" expanded="false" />
+            <element signature="n#!!block;n#topbarFixed#0" expanded="false" />
+            <element signature="e#959#1001#0" expanded="false" />
+            <element signature="n#!!block;n#topbarFluid#0" expanded="false" />
+            <element signature="e#1210#1251#0" expanded="false" />
+            <element signature="n#!!block;n#versionFixed#0" expanded="false" />
+            <element signature="e#1316#1622#0" expanded="false" />
+            <element signature="e#1540#1616#0" expanded="false" />
+            <element signature="n#!!block;n#versionFluid#0" expanded="false" />
+            <element signature="n#!!block;n#slimScrollUpdate#0" expanded="false" />
+            <element signature="e#1911#2439#0" expanded="false" />
+            <element signature="e#2138#2229#0" expanded="false" />
+            <element signature="e#2248#2337#0" expanded="false" />
+            <element signature="n#!!block;n#destroySlimscroll#0" expanded="false" />
+            <element signature="n#!!block;n#initSidebarScroll#0" expanded="false" />
+            <element signature="e#2622#3066#0" expanded="false" />
+            <element signature="e#2654#2886#0" expanded="false" />
+            <element signature="e#2742#2806#0" expanded="false" />
+            <element signature="e#3015#3058#0" expanded="false" />
+            <element signature="e#3072#3131#0" expanded="false" />
+            <element signature="n#!!block;n#getSidebarScrollHeight#0" expanded="false" />
+            <element signature="e#3461#3496#0" expanded="false" />
+            <element signature="n#!!block;n#checkLeftNav#0" expanded="false" />
+            <element signature="e#3639#4027#0" expanded="false" />
+            <element signature="e#3685#3768#0" expanded="false" />
+            <element signature="e#3814#3938#0" expanded="false" />
+            <element signature="e#3982#4021#0" expanded="false" />
+            <element signature="e#4033#4704#0" expanded="false" />
+            <element signature="e#4145#4240#0" expanded="false" />
+            <element signature="e#4374#4494#0" expanded="false" />
+            <element signature="e#4527#4698#0" expanded="false" />
+            <element signature="e#4585#4688#0" expanded="false" />
+            <element signature="n#!!block;n#resizeHandlerHeight#0" expanded="false" />
+            <element signature="n#!!block;n#toggleMobileNav#0" expanded="false" />
+            <element signature="n#!!block;n#getNavElement#0" expanded="false" />
+            <element signature="e#5313#5380#0" expanded="false" />
+            <element signature="n#!!block;n#getNav#0" expanded="false" />
+            <element signature="e#5561#5614#0" expanded="false" />
+            <element signature="n#!!block;n#createSubNav#0" expanded="false" />
+            <element signature="e#5756#6692#0" expanded="false" />
+            <element signature="e#6035#6684#0" expanded="false" />
+            <element signature="e#6169#6674#0" expanded="false" />
+            <element signature="e#6327#6525#0" expanded="false" />
+            <element signature="n#!!block;n#hideNav#0" expanded="false" />
+            <element signature="e#6804#6870#0" expanded="false" />
+            <element signature="e#6876#6925#0" expanded="false" />
+            <element signature="n#!!block;n#scrolledClone#0" expanded="false" />
+            <element signature="n#!!block;n#resizeContent#0" expanded="false" />
+            <element signature="e#7108#7363#0" expanded="false" />
+            <element signature="e#7172#7233#0" expanded="false" />
+            <element signature="e#7260#7355#0" expanded="false" />
+            <element signature="e#7381#8329#0" expanded="false" />
+            <element signature="e#7424#8327#0" expanded="false" />
+            <element signature="e#7434#7474#0" expanded="false" />
+            <element signature="e#7706#8300#0" expanded="false" />
+            <element signature="e#7756#8288#0" expanded="false" />
+            <element signature="e#8137#8272#0" expanded="false" />
+            <element signature="e#8193#8271#0" expanded="false" />
+            <element signature="n#!!block;n#icheck#0" expanded="false" />
+            <element signature="e#8397#8904#0" expanded="false" />
+            <element signature="e#8440#8896#0" expanded="false" />
+            <element signature="e#8693#8856#0" expanded="false" />
+            <element signature="n#!!block;n#resize_chosen#0" expanded="false" />
+            <element signature="e#8977#9235#0" expanded="false" />
+            <element signature="n#!!block;n#getUser#0" expanded="false" />
+            <element signature="n#!!block;n#createOnlineUserStatistic#0" expanded="false" />
+            <element signature="e#9708#9751#0" expanded="false" />
+            <element signature="n#!!block;n#getBalance#0" expanded="false" />
+            <element signature="n#!!block;n#createBalanceStatistic#0" expanded="false" />
+            <element signature="e#10237#10277#0" expanded="false" />
+            <element signature="n#!!block;n#currentTime#0" expanded="false" />
+            <element signature="e#10828#10857#0" expanded="false" />
+            <element signature="e#11645#11685#0" expanded="false" />
+            <element signature="e#11920#11950#0" expanded="false" />
+            <element signature="e#12029#12878#0" expanded="false" />
+            <element signature="e#12068#12870#0" expanded="false" />
+            <element signature="e#12234#12297#0" expanded="false" />
+            <element signature="e#12315#12619#0" expanded="false" />
+            <element signature="e#12379#12437#0" expanded="false" />
+            <element signature="e#12547#12605#0" expanded="false" />
+            <element signature="e#12649#12858#0" expanded="false" />
+            <element signature="e#12967#13049#0" expanded="false" />
+            <element signature="e#12990#13043#0" expanded="false" />
+            <element signature="e#13104#13233#0" expanded="false" />
+            <element signature="e#13139#13225#0" expanded="false" />
+            <element signature="e#13297#13593#0" expanded="false" />
+            <element signature="e#13344#13585#0" expanded="false" />
+            <element signature="e#13646#14737#0" expanded="false" />
+            <element signature="e#13688#14729#0" expanded="false" />
+            <element signature="e#13831#14195#0" expanded="false" />
+            <element signature="e#13882#14180#0" expanded="false" />
+            <element signature="e#14249#14687#0" expanded="false" />
+            <element signature="e#14344#14672#0" expanded="false" />
+            <element signature="e#14477#14585#0" expanded="false" />
+            <element signature="e#14780#14935#0" expanded="false" />
+            <element signature="e#14820#14927#0" expanded="false" />
+            <element signature="e#14989#16044#0" expanded="false" />
+            <element signature="e#15028#16036#0" expanded="false" />
+            <element signature="e#15206#15800#0" expanded="false" />
+            <element signature="e#15352#15435#0" expanded="false" />
+            <element signature="e#15481#15603#0" expanded="false" />
+            <element signature="e#15647#15786#0" expanded="false" />
+            <element signature="e#15827#16026#0" expanded="false" />
+            <element signature="e#15870#15945#0" expanded="false" />
+            <element signature="e#16104#16841#0" expanded="false" />
+            <element signature="e#16151#16833#0" expanded="false" />
+            <element signature="e#16227#16821#0" expanded="false" />
+            <element signature="e#16373#16456#0" expanded="false" />
+            <element signature="e#16502#16624#0" expanded="false" />
+            <element signature="e#16668#16807#0" expanded="false" />
+            <element signature="e#16965#17079#0" expanded="false" />
+            <element signature="e#17003#17071#0" expanded="false" />
+            <element signature="e#17153#17214#0" expanded="false" />
+            <element signature="e#17339#17375#0" expanded="false" />
+            <element signature="e#17480#17792#0" expanded="false" />
+            <element signature="e#17517#17628#0" expanded="false" />
+            <element signature="e#17664#17741#0" expanded="false" />
+            <element signature="e#17861#18062#0" expanded="false" />
+            <element signature="e#17918#18054#0" expanded="false" />
+            <element signature="e#18125#18504#0" expanded="false" />
+            <element signature="e#18180#18498#0" expanded="false" />
+            <element signature="e#18282#18350#0" expanded="false" />
+            <element signature="e#18356#18488#0" expanded="false" />
+            <element signature="e#18518#18702#0" expanded="false" />
+            <element signature="e#18573#18696#0" expanded="false" />
+            <element signature="e#19133#19236#0" expanded="false" />
+            <element signature="e#19377#19437#0" expanded="false" />
+            <element signature="e#19481#19541#0" expanded="false" />
+            <element signature="e#19557#19599#0" expanded="false" />
+            <element signature="e#19675#20020#0" expanded="false" />
+            <element signature="e#19822#20006#0" expanded="false" />
+            <element signature="e#20290#20659#0" expanded="false" />
+            <element signature="e#20719#21220#0" expanded="false" />
+            <element signature="e#20928#21206#0" expanded="false" />
+            <element signature="e#21025#21194#0" expanded="false" />
+            <element signature="e#21265#21366#0" expanded="false" />
+            <element signature="e#21397#21461#0" expanded="false" />
+            <element signature="e#21574#21646#0" expanded="false" />
+            <element signature="e#21714#21776#0" expanded="false" />
+            <element signature="e#21825#22354#0" expanded="false" />
+            <element signature="e#21994#22346#0" expanded="false" />
+            <element signature="e#22141#22235#0" expanded="false" />
+            <element signature="e#22241#22336#0" expanded="false" />
+            <element signature="e#22402#23350#0" expanded="false" />
+            <element signature="e#22741#22845#0" expanded="false" />
+            <element signature="e#23053#23342#0" expanded="false" />
+            <element signature="e#23074#23332#0" expanded="false" />
+            <element signature="e#23179#23318#0" expanded="false" />
+            <element signature="e#23399#23609#0" expanded="false" />
+            <element signature="e#23532#23595#0" expanded="false" />
+            <element signature="e#23645#23834#0" expanded="false" />
+            <element signature="e#23881#24342#0" expanded="false" />
+            <element signature="e#24231#24336#0" expanded="false" />
+            <element signature="e#24370#24563#0" expanded="false" />
+            <element signature="e#24604#25240#0" expanded="false" />
+            <element signature="e#24648#25232#0" expanded="false" />
+            <element signature="e#24919#25065#0" expanded="false" />
+            <element signature="e#25088#25189#0" expanded="false" />
+            <element signature="e#25288#25915#0" expanded="false" />
+            <element signature="e#25319#25909#0" expanded="false" />
+            <element signature="e#25562#25669#0" expanded="false" />
+            <element signature="e#25692#25793#0" expanded="false" />
+            <element signature="e#25961#26915#0" expanded="false" />
+            <element signature="e#25992#26907#0" expanded="false" />
+            <element signature="e#26087#26652#0" expanded="false" />
+            <element signature="e#26246#26311#0" expanded="false" />
+            <element signature="e#26371#26544#0" expanded="false" />
+            <element signature="e#26550#26637#0" expanded="false" />
+            <element signature="e#26684#26774#0" expanded="false" />
+            <element signature="e#26807#26897#0" expanded="false" />
+            <element signature="e#26992#27046#0" expanded="false" />
+            <element signature="e#27096#27122#0" expanded="false" />
+            <element signature="e#27174#27300#0" expanded="false" />
+            <element signature="e#27592#27843#0" expanded="false" />
+            <element signature="e#27759#27837#0" expanded="false" />
+            <element signature="e#28597#29104#0" expanded="false" />
+            <element signature="e#28756#28862#0" expanded="false" />
+            <element signature="e#29014#29053#0" expanded="false" />
+            <element signature="e#29059#29098#0" expanded="false" />
+            <element signature="e#29184#29263#0" expanded="false" />
+            <element signature="e#29300#30225#0" expanded="false" />
+            <element signature="e#29458#29533#0" expanded="false" />
+            <element signature="e#29539#29873#0" expanded="false" />
+            <element signature="e#29631#29692#0" expanded="false" />
+            <element signature="e#29698#29799#0" expanded="false" />
+            <element signature="e#29965#30152#0" expanded="false" />
+            <element signature="e#30004#30079#0" expanded="false" />
+            <element signature="e#30085#30142#0" expanded="false" />
+            <element signature="e#30263#30353#0" expanded="false" />
+            <element signature="e#30445#30883#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4371" column="23" selection-start="85230" selection-end="85237" vertical-scroll-proportion="-3.5882354">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/pages.nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="337" selection-end="337" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/pages.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="7" selection-start="235" selection-end="235" vertical-scroll-proportion="0.14681892">
           <folding />
         </state>
       </provider>
