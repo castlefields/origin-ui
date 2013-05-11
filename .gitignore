@@ -48,3 +48,6 @@ Thumbs.db
 
 */.meteor/local
 */*/.meteor/local
+
+# webstorm
+.idea/workspace.xml
